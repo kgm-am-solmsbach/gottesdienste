@@ -12,7 +12,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 22.10.2023   | Braunfels       | 11:00      | Pfr. ??           | GD            |
 22.10.2023   | Oberbiel        | 10:00      | Pfr. Pack         | GD            |
 22.10.2023   | Bonbaden        | 10:00      | Pfr/in. Vollmer   | GD            |
-22.10.2023   | Niederwetz      | 09:30      | Pärd. Rühl        | GD mit Abendmahl |
+22.10.2023   | Niederwetz      | 09:30      | Präd. Rühl        | GD mit Abendmahl |
 22.10.2023   | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
 22.10.2023   | Griedelbach     | 11:00      | Pfr. Dr. Sitzler  | GD            |
 22.10.2023   | Brandoberndorf  | --:--      | Urlaub            | kein GD       | 
