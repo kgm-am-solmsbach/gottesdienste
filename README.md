@@ -3,7 +3,7 @@ Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirc
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind (entgegen der Fliessrichtung).
 
 Stand: 16.10.2023, klaus.toscher@ekir.de<br>
-- keine Daten von: Leun, Braunfels, Philippstein, Altenkirchen
+- keine Daten von: Brndoberndorf, Weiperfelden, Leun, Braunfels, Philippstein, Altenkirchen
 - keine Gottesdienste in: Kröffelbach, Oberquembach, Schwalbach, Neukirchen, Weiperfelden
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
@@ -17,7 +17,6 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 22.10.2023   | Niederwetz      | 09:30      | Präd. Rühl        | GD mit Abendmahl |
 22.10.2023   | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
 22.10.2023   | Griedelbach     | 11:00      | Pfr. Dr. Sitzler  | GD            |
-22.10.2023   | Brandoberndorf  | --:--      | Urlaub            | kein GD       | 
 
 ## Links
 
@@ -36,7 +35,6 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 [KGM Niederwetz](https://www.kirchengemeinde-nwrk.de/gemeinde-info/niederwetz/)
 
 [KGM Brandoberndorf](https://ol.wittich.de/titel/1212/)
-
 
 
 ## Legende
