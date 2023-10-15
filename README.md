@@ -2,7 +2,9 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind (entgegen der Fliessrichtung).
 
-Stand: 15.10.2023, keine Daten von Brandoberndorf, Leun, Braunfels
+Stand: 16.10.2023, klaus.toscher@ekir.de
+keine Daten von: Leun, Braunfels, Philippstein, Altenkirchen
+keine Gottesdienste in: Kröffelbach, Oberquembach, Schwalbach, Neukirchen, Weiperfelden
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
