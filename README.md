@@ -35,7 +35,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 
 [KGM Niederwetz](https://www.kirchengemeinde-nwrk.de/gemeinde-info/niederwetz/)
 
-[KGM Brandoberndorf](https://www.https://ol.wittich.de/titel/1212/)
+[KGM Brandoberndorf](https://ol.wittich.de/titel/1212/)
 
 
 
