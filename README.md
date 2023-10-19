@@ -3,7 +3,7 @@ Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirc
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
 Stand: 19.10.2023, klaus.toscher bei der ekir
-- keine Daten von: Braunfels, Leun, Tiefenbach, Braunfels, Philippstein, Altenkirchen
+- keine Daten von: Braunfels, Philippstein, Altenkirchen
 - keine Gottesdienste am 21./22.10.23 in: Burgsolms, Kröffelbach, Oberquembach, Schwalbach, Neukirchen, Weiperfelden
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
@@ -13,6 +13,8 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 21.10.2023   | Brandoberndorf  | 18:00      | Pfr. Lange        | GD,	Predigtthema: Streitgespräch und Kindersegnung |
 22.10.2023   | **Oberndorf**   | **09:30**  | **Pfr. Perko**    | **GD**        | 
 22.10.2023   | Oberbiel        | 10:00      | Pfr. Pack         | GD            |
+22.10.2023   | Tiefenbach      | 09:30      | Pfrin Schuppener  | GD            |
+22.10.2023   | Leun            | 11:00      | Pfrin Schuppener  | GD            |
 22.10.2023   | Bonbaden        | 10:00      | Pfr. i.R. Aurel Everling | GD     |
 22.10.2023   | Niederwetz      | 09:30      | Präd. Rühl        | GD mit Abendmahl |
 22.10.2023   | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
@@ -30,7 +32,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 
 [KGM Braunfels](https://www.evangelisch-in-braunfels.de)
 
-[KGM Leun-Tiefenbach](http://kirche-leun-tiefenbach.de/gottesdiensplan/)
+[KGM Leun-Tiefenbach](https://ol.wittich.de/titel/1108/)
 
 [KGM Niederwetz](https://www.kirchengemeinde-nwrk.de/gemeinde-info/niederwetz/)
 
