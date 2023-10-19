@@ -2,16 +2,16 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 18.10.2023, klaus.toscher bei der ekir
-- keine Daten von: Brandoberndorf, Weiperfelden, Leun, Tiefenbach, Braunfels, Philippstein, Altenkirchen
+Stand: 19.10.2023, klaus.toscher bei der ekir
+- keine Daten von: Braunfels, Leun, Tiefenbach, Braunfels, Philippstein, Altenkirchen
 - keine Gottesdienste am 21./22.10.23 in: Burgsolms, Kröffelbach, Oberquembach, Schwalbach, Neukirchen, Weiperfelden
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
 21.10.2023   | Kraftsolms      | 17:30      | Pfr. Dr. Sitzler  | GD            |
 21.10.2023   | Niederquembach  | 19:00      | Pfr. Dr. Sitzler  | GD            |
+21.10.2023   | Brandoberndorf  | 18:00      | Pfr. Lange        | GD,	Predigtthema: Streitgespräch und Kindersegnung |
 22.10.2023   | **Oberndorf**   | **09:30**  | **Pfr. Perko**    | **GD**        | 
-22.10.2023   | Braunfels       | 11:00      | Pfr. ??           | GD            |
 22.10.2023   | Oberbiel        | 10:00      | Pfr. Pack         | GD            |
 22.10.2023   | Bonbaden        | 10:00      | Pfr. i.R. Aurel Everling | GD     |
 22.10.2023   | Niederwetz      | 09:30      | Präd. Rühl        | GD mit Abendmahl |
