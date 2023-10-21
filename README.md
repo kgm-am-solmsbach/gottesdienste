@@ -18,7 +18,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 22.10.2023   | Leun            | 11:00      | Pfrin Schuppener  | GD            |
 22.10.2023   | Bonbaden        | 10:00      | Pfr. i.R. Aurel Everling | GD     |
 22.10.2023   | Niederwetz      | 09:30      | Präd. Rühl        | GD mit Abendmahl |
-22.10.2023   | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
+22.10.2023   | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD           |
 22.10.2023   | Griedelbach     | 11:00      | Pfr. Dr. Sitzler  | GD            |
 22.10.2023   | Altenkirchen    | 11:00      | ?                 | Kirmes GD im Zelt |
 
