@@ -12,7 +12,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 21.10.2023   | Niederquembach  | 19:00      | Pfr. Dr. Sitzler  | GD            |
 21.10.2023   | Brandoberndorf  | 18:00      | Pfr. Lange        | GD,	Predigtthema: Streitgespräch und Kindersegnung |
 22.10.2023   | **Oberndorf**   | **09:30**  | **Pfr. Perko**    | **GD**        | 
-22.10.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | Mirjam-GD in der Friedenskirche |
+22.10.2023   | Braunfels       | 11:00      | ?                 | Mirjam-GD in der Friedenskirche |
 22.10.2023   | Oberbiel        | 10:00      | Pfr. Pack         | GD            |
 22.10.2023   | Tiefenbach      | 09:30      | Pfrin Schuppener  | GD            |
 22.10.2023   | Leun            | 11:00      | Pfrin Schuppener  | GD            |
