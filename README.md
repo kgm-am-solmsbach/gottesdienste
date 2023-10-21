@@ -2,8 +2,8 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 20.10.2023, klaus.toscher bei der ekir
-- keine Daten von: Braunfels, Philippstein
+Stand: 21.10.2023, klaus.toscher bei der ekir
+- keine Daten von: Philippstein
 - keine Gottesdienste am 21./22.10.23 in: Burgsolms, Kröffelbach, Oberquembach, Schwalbach, Neukirchen, Weiperfelden
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
