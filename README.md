@@ -16,7 +16,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 29.10.2023   | Albshausen      | 15:00      | Hr. Martin Pfeiffer | Kindermitmachkonzert |
 29.10.2023   | Niederwetz      | 16:00      | Orchester         | Mandolinenkonzert |
 31.10.2023   | Niederbiel      | 19:00      | Pfr. Pack         | GD am Reformationstag |
-31.10.2023   | Schwalbach, kath. Kirche | 18:30 | Pfr. Vollmer  | Ökumenischer GD am Reformationstag |
+31.10.2023   | Schwalbach, kath. Kirche | 18:30 | Pfr/n. Vollmer  | Ökumenischer GD am Reformationstag |
 
 ## Links
 
@@ -39,8 +39,8 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 
 ## Legende
 - GD: Gottesdienst
-- Pfrn: Pfarrerin
-- Pfr: Pfarrer
-- Pfr/n: Pfarrer oder Pfarrerin
-- Präd.n: Prädikantin
+- Pfrn.: Pfarrerin
+- Pfr.: Pfarrer
+- Pfr/n.: Pfarrer oder Pfarrerin
+- Prädn.: Prädikantin
 - Präd.: Prädikant
