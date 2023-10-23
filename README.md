@@ -4,7 +4,7 @@ der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
 Stand: 23.10.2023, klaus.toscher bei der ekir
 - keine Daten von: Braunfels, Philippstein, Altenkirchen, Brandoberndorf, Weiperfelden, Leun, Tiefenbach
-- keine Gottesdienste am 28./29.10.23 in: Burgsolms, Kröffelbach, Oberquembach, Oberwetz, Griedelbach, Bonbaden, Neukirchen
+- keine Gottesdienste am 28./29.10.23 in: Burgsolms, Albshausen, Kröffelbach, Oberquembach, Oberwetz, Griedelbach, Bonbaden, Neukirchen
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
