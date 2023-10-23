@@ -13,8 +13,8 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 29.10.2023   | Kraftsolms      | 11:00      | Pfr. Dr. Sitzler  | GD            |
 29.10.2023   | Niederquembach  | 09:30      | Pfr. Dr. Sitzler  | GD            |
 29.10.2023   | Schwalbach      | 10:00      | Pfrn. i.R. Marion Obitz  | GD     |
-29.10.2023   | Albshausen      | 15:00      | Hr. Martin Pfeiffer | Kindermitmachkonzert |
-29.10.2023   | Niederwetz      | 16:00      | Orchester         | Mandolinenkonzert |
+29.10.2023   | Albshausen      | 15:00      | (Martin Pfeiffer) | Kindermitmachkonzert |
+29.10.2023   | Niederwetz      | 16:00      | (Orchester)       | Mandolinenkonzert |
 31.10.2023   | Niederbiel      | 19:00      | Pfr. Pack         | GD am Reformationstag |
 31.10.2023   | Schwalbach, kath. Kirche | 18:30 | Pfr/n. Vollmer  | Ökumenischer GD am Reformationstag |
 
