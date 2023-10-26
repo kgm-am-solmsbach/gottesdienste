@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 23.10.2023, klaus.toscher bei der ekir
+Stand: 26.10.2023, klaus.toscher bei der ekir
 - keine Daten von: Philippstein, Altenkirchen
 - keine Gottesdienste am 28./29.10.23 in: Burgsolms, Albshausen, Kröffelbach, Oberquembach, Oberwetz, Griedelbach, Bonbaden, Neukirchen, Weiperfelden
 
