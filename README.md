@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 26.10.2023, klaus.toscher bei der ekir
+Stand: 29.10.2023, klaus.toscher bei der ekir
 - keine Daten von: Philippstein, Altenkirchen
 - keine Gottesdienste am 28./29.10.23 in: Burgsolms, Albshausen, Kröffelbach, Oberquembach, Oberwetz, Griedelbach, Bonbaden, Neukirchen, Weiperfelden
 
@@ -21,6 +21,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 29.10.2023   | Brandoberndorf  | 10:00      | Pfr. Lange        | am 21. Sonntag nach Trinitatis mit Taufe<br> Predigttext: Genesis 13,1-12<br>Predigtthema: Gott, der mit uns zieht<br>Kollekte für die Arbeit in der eigenen Gemeinde |
 31.10.2023   | Niederbiel      | 19:00      | Pfr. Pack         | GD am Reformationstag |
 31.10.2023   | Schwalbach, kath. Kirche | 18:30 | Pfr/n. Vollmer  | Ökumenischer GD am Reformationstag |
+31.10.2023   | Kröffelbach     | 19:00      | Pfr. Ott          | GD am Reformationstag |
 
 ## Links
 
