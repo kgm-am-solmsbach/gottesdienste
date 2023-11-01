@@ -3,25 +3,20 @@ Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirc
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
 Stand: 01.11.2023, klaus.toscher bei der ekir
-- keine Daten von: Philippstein, Altenkirchen
-- keine Gottesdienste am 04./05.11.23 in: Oberndorf, Albshausen, Kröffelbach, Oberquembach, Oberwetz, Griedelbach, Bonbaden, Neukirchen, Weiperfelden
+- keine Daten von: Albshausen, Leun, Tiefenbach, Brandoberndorf, Philippstein, Altenkirchen, Weiperfelden
+- keine Gottesdienste am 04./05.11.23 in: Oberndorf, Albshausen, Niederquembach, Griedelbach, Bonbaden, Schwalbach
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
 04.11.2023   | Griedelbach     | 17:00      | Pfr. Ott          | GD            |
 04.11.2023   | Oberwetz        | 18:30      | Pfr. Ott          | GD            |
-05.11.2023   | **Burgsolms**   | **09:30**  | **Pfr. Perko**    | **GD**        | 
+05.11.2023   | **Burgsolms**   | **11:00**  | **Pfr. Perko**    | **GD mit Jubiläumskonfirmation**  | 
 05.11.2023   | Niederbiel      | 10:00      | Pfr. Weber        | GD            |
 05.11.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
 05.11.2023   | Kröffelbach     | 09:20      | Pfr. Ott          | GD            |
 05.11.2023   | Oberquembach    | 11:00      | Pfr. Ott          | GD            |
 05.11.2023   | Neukirchen      | 10:00      | Pfr/n. Vollmer    | GD            |
-29.10.2023   | Niederwetz      | 11:00      | Obitz             | GD            |
-
-29.10.2023   | Leun            | ??:00      | Pfrn. Schuppener  | GD            |
-29.10.2023   | Tiefenbach      | ??:00      | Pfrn. Schuppener  | GD            |
-29.10.2023   | Albshausen      | ??:00      | Pfr. Hosbach      | GD            |
-29.10.2023   | Brandoberndorf  | ??:00      | Pfr. Lange        | GD            |
+05.10.2023   | Niederwetz      | 11:00      | Obitz             | GD            |
 
 ## Links
 
