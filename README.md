@@ -4,7 +4,7 @@ der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
 Stand: 01.11.2023, klaus.toscher bei der ekir
 - keine Daten von: Albshausen, Leun, Tiefenbach, Brandoberndorf, Philippstein, Altenkirchen, Weiperfelden
-- keine Gottesdienste am 04./05.11.23 in: Oberndorf, Albshausen, Niederquembach, Griedelbach, Bonbaden, Schwalbach
+- keine Gottesdienste am 04./05.11.23 in: Oberndorf, Niederquembach, Griedelbach, Bonbaden, Schwalbach
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
@@ -13,7 +13,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 05.11.2023   | **Burgsolms**   | **11:00**  | **Pfr. Perko**    | **GD mit Jubiläumskonfirmation**  | 
 05.11.2023   | Niederbiel      | 10:00      | Pfr. Weber        | GD            |
 05.11.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
-05.11.2023   | Kröffelbach     | 09:20      | Pfr. Ott          | GD            |
+05.11.2023   | Kröffelbach     | 09:30      | Pfr. Ott          | GD            |
 05.11.2023   | Oberquembach    | 11:00      | Pfr. Ott          | GD            |
 05.11.2023   | Neukirchen      | 10:00      | Pfr/n. Vollmer    | GD            |
 05.10.2023   | Niederwetz      | 11:00      | Obitz             | GD            |
