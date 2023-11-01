@@ -11,7 +11,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 04.11.2023   | Griedelbach     | 17:00      | Pfr. Ott          | GD            |
 04.11.2023   | Oberwetz        | 18:30      | Pfr. Ott          | GD            |
 05.11.2023   | **Burgsolms**   | **11:00**  | **Pfr. Perko**    | **GD mit Jubiläumskonfirmation**  | 
-05.11.2023   | Niederbiel      | 10:00      | Pfr. Weber        | GD            |
+05.11.2023   | Niederbiel      | 10:00      | Pfr. Weber        | GD mit Abendmahl |
 05.11.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
 05.11.2023   | Kröffelbach     | 09:30      | Pfr. Ott          | GD            |
 05.11.2023   | Oberquembach    | 11:00      | Pfr. Ott          | GD            |
