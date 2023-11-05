@@ -18,10 +18,10 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 12.11.2023   | Leun            | 09:30      | Pfrn. Schuppener  | GD  ??        |
 12.11.2023   | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
 12.11.2023   | Griedelbach     | 11:00      | Pfr. Dr. Sitzler  | GD            |
-05.11.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | Update GD     |
-05.11.2023   | Laufdorf        | 11:00      | Pfrn. Twittenhoff | GD  ??        |
-05.11.2023   | Niederwetz      | 10:45      | Hilbrands         | GD            |
-05.11.2023   | Brandoberndorf  | 10:00      | ??                | GD  ??        |
+12.11.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | Update GD     |
+12.11.2023   | Laufdorf        | 11:00      | Pfrn. Twittenhoff | GD  ??        |
+12.11.2023   | Niederwetz      | 10:45      | Hilbrands         | GD            |
+12.11.2023   | Brandoberndorf  | 10:00      | ??                | GD  ??        |
 
 
 ## Links
