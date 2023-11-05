@@ -12,7 +12,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 11.11.2023   | Schwalbach      | 17:30      | Pfr/n. Vollmer    | kath. Kirche, Krümel GD mit Martinsumzug |
 11.11.2023   | Kraftsolms      | 18:30      | Pfr. Dr. Sitzler  | GD            |
 12.11.2023   | **Oberndorf**   | **09:30**  | **Pfrn. Offermann**    | **GD mit Taufe**  | 
-12.11.2023   | Oberbiel        | 10:00      | Pfr. Weber??      | GD mit Abendmahl |
+12.11.2023   | Oberbiel        | 10:00      | Pfr. Weber ??     | GD mit Abendmahl |
 12.11.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
 12.11.2023   | Tiefenbach      | 11:00      | Pfrn. Schuppener  | GD  ??        |
 12.11.2023   | Leun            | 09:30      | Pfrn. Schuppener  | GD  ??        |
@@ -21,7 +21,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 12.11.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | Update GD     |
 12.11.2023   | Laufdorf        | 11:00      | Pfrn. Twittenhoff | GD  ??        |
 12.11.2023   | Niederwetz      | 10:45      | Hilbrands         | GD            |
-12.11.2023   | Brandoberndorf  | 10:00      | ??                | GD  ??        |
+12.11.2023   | Brandoberndorf  | 10:00      | Pfr. Lange ??     | GD  ??        |
 
 
 ## Links
