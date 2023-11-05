@@ -3,12 +3,13 @@ Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirc
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
 Stand: 06.11.2023, klaus.toscher bei der ekir
-- keine Daten von: Philippstein, Altenkirchen
-- keine Gottesdienste am 11./12.11.23 in: Albshausen, Burgsolms, Oberquembach, Kröffelbach, Neukirchen, Schwalbach, Weiperfelden
+- keine Daten von: Albshausen, Philippstein, Altenkirchen und die noch mit '??' gekennzeichneten
+- keine Gottesdienste am 11./12.11.23 in: Burgsolms, Oberquembach, Kröffelbach, Neukirchen, Weiperfelden
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
 11.11.2023   | Niederquembach  | 17:00      | Pfr. Dr. Sitzler  | GD            |
+11.11.2023   | Schwalbach      | 17:30      | Pfr/n. Vollmer    | kath. Kirche, Krümel GD mit Martinsumzug |
 11.11.2023   | Kraftsolms      | 18:30      | Pfr. Dr. Sitzler  | GD            |
 12.11.2023   | **Oberndorf**   | **09:30**  | **Pfrn. Offermann**    | **GD mit Taufe**  | 
 12.11.2023   | Oberbiel        | 10:00      | Pfr. Weber??      | GD mit Abendmahl |
@@ -35,9 +36,11 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 
 [KGM Braunfels](https://www.evangelisch-in-braunfels.de)
 
-[KGM Leun-Tiefenbach](https://ol.wittich.de/titel/1108/)
+[KGM Leun-Tiefenbach & Biskirchen-Bissenberg](https://ol.wittich.de/titel/1108/)
 
 [KGM Niederwetz](https://www.kirchengemeinde-nwrk.de/gemeinde-info/niederwetz/)
+
+[KGM Nauborn-Laufdorf](https://ol.wittich.de/titel/1161/)
 
 [KGM Brandoberndorf](https://ol.wittich.de/titel/1212/)
 
