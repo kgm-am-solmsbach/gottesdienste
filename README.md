@@ -18,9 +18,9 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 05.11.2023   | Kröffelbach     | 09:30      | Pfr. Ott          | GD            |
 05.11.2023   | Oberquembach    | 11:00      | Pfr. Ott          | GD            |
 05.11.2023   | Neukirchen      | 10:00      | Pfrn. Twittenhoff | GD  Kanzeltausch |
-05.10.2023   | Laufdorf        | 09:30      | Pfr/n. Vollmer    | GD, Kanzeltausch |
-05.10.2023   | Niederwetz      | 11:00      | Obitz             | GD            |
-05.10.2023   | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD im Haus Solmsbachtal, Predigttext: 1 Johannes 2,12-14, Predigtthema: Gemeine als Gemeinschaft der Erlösten, Kollekte für die Arbeit des Gustav Adolf Werks in Hessen und Nassau   |
+05.11.2023   | Laufdorf        | 09:30      | Pfr/n. Vollmer    | GD, Kanzeltausch |
+05.11.2023   | Niederwetz      | 11:00      | Obitz             | GD            |
+05.11.2023   | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD im Haus Solmsbachtal, Predigttext: 1 Johannes 2,12-14, Predigtthema: Gemeine als Gemeinschaft der Erlösten, Kollekte für die Arbeit des Gustav Adolf Werks in Hessen und Nassau   |
 
 
 ## Links
