@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 06.11.2023, klaus.toscher bei der ekir
+Stand: 09.11.2023, klaus.toscher bei der ekir
 - keine Daten von: Albshausen, Philippstein, Altenkirchen und die noch mit '??' gekennzeichneten
 - keine Gottesdienste am 11./12.11.23 in: Brandoberndorf, Burgsolms, Oberquembach, Kröffelbach, Neukirchen
 
@@ -10,7 +10,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 ------------ | --------------- | ---------- | ----------------- | ------------- |
 11.11.2023   | Niederquembach  | 17:00      | Pfr. Dr. Sitzler  | GD            |
 11.11.2023   | Schwalbach      | 17:30      | Pfr/n. Vollmer    | kath. Kirche, Krümel GD mit Martinsumzug |
-12.11.2023   | Tiefenbach      | 18:00      | Pfrn. Schuppener  | GD            |
+11.11.2023   | Tiefenbach      | 18:00      | Pfrn. Schuppener  | GD            |
 11.11.2023   | Kraftsolms      | 18:30      | Pfr. Dr. Sitzler  | GD            |
 11.11.2023   | Leun            | 19:00      | Pfrn. Schuppener  | GD            |
 12.11.2023   | **Oberndorf**   | **09:30**  | **Pfrn. Offermann**    | **GD mit Taufe**  | 
@@ -19,7 +19,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 12.11.2023   | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
 12.11.2023   | Griedelbach     | 11:00      | Pfr. Dr. Sitzler  | GD            |
 12.11.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | Update GD     |
-12.11.2023   | Laufdorf        | 11:00      | Pfrn. Twittenhoff | GD  ??        |
+12.11.2023   | ~~Laufdorf~~        | 09:30      | Pfrn. Twittenhoff | GD          |
 12.11.2023   | Niederwetz      | 10:45      | Hilbrands         | GD            |
 12.11.2023   | Weiperfelden    | 10:00      | Pfr. Lange        | GD            |
 
