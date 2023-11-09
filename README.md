@@ -3,7 +3,7 @@ Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirc
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
 Stand: 09.11.2023, klaus.toscher bei der ekir
-- keine Daten von: Albshausen, Philippstein, Altenkirchen und die noch mit '??' gekennzeichneten
+- keine Daten von: Albshausen, Philippstein, Altenkirchen und die noch durchgestrichenen
 - keine Gottesdienste am 11./12.11.23 in: Brandoberndorf, Burgsolms, Oberquembach, Kröffelbach, Neukirchen
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
