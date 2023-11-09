@@ -18,7 +18,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 12.11.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
 12.11.2023   | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
 12.11.2023   | Griedelbach     | 11:00      | Pfr. Dr. Sitzler  | GD            |
-12.11.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | Update GD     |
+12.11.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | Update GD im Gemeindehaus |
 12.11.2023   | ~~Laufdorf~~        | 09:30      | Pfrn. Twittenhoff | GD          |
 12.11.2023   | Niederwetz      | 10:45      | Hilbrands         | GD            |
 12.11.2023   | Weiperfelden    | 10:00      | Pfr. Lange        | GD            |
