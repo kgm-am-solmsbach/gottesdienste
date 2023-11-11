@@ -2,9 +2,9 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 09.11.2023, klaus.toscher bei der ekir
+Stand: 11.11.2023, klaus.toscher bei der ekir
 - keine Daten von: Albshausen, Philippstein, Altenkirchen und die noch durchgestrichenen
-- keine Gottesdienste am 11./12.11.23 in: Brandoberndorf, Burgsolms, Oberquembach, Kröffelbach, Neukirchen
+- keine Gottesdienste am 11./12.11.23 in: Brandoberndorf, Burgsolms, Oberquembach, Kröffelbach, Neukirchen, Laufdorf
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
@@ -19,7 +19,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 12.11.2023   | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
 12.11.2023   | Griedelbach     | 11:00      | Pfr. Dr. Sitzler  | GD            |
 12.11.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | Update GD im Gemeindehaus |
-12.11.2023   | ~~Laufdorf~~        | 09:30      | Pfrn. Twittenhoff | GD          |
+12.11.2023   | Nauborn         | 11:00      | Scheibel/Gessner  | GD „bis dass der Tod uns scheidet…“ _nur in Nauborn_ |
 12.11.2023   | Niederwetz      | 10:45      | Hilbrands         | GD            |
 12.11.2023   | Weiperfelden    | 10:00      | Pfr. Lange        | GD            |
 
