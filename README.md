@@ -3,16 +3,17 @@ Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirc
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
 Stand: 13.11.2023, klaus.toscher bei der ekir
-- keine Daten von: Albshausenn, Brandoberndorf und die noch durchgestrichenen
+- keine Daten von: den (noch) durchgestrichenen
 - keine Gottesdienste am 18./19.11.23 in: Bonbaden, Neukirchen
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
-19.11.2023   | ~~Tiefenbach~~  | 18:00      | Pfrn. Schuppener  | GD            |
-19.11.2023   | ~~Leun~~        | 19:00      | Pfrn. Schuppener  | GD            |
+~~19.11.2023~~  | ~~Tiefenbach~~   | 18:00      | Pfrn. Schuppener  | GD            |
+~~19.11.2023~~   | ~~Leun~~        | 19:00      | Pfrn. Schuppener  | GD            |
 19.11.2023   | **Burgsolms**   | **09:30**  | **Pfrn. Offermann**  | **GD**     |
-19.11.2023   | ~~Albshausen~~  | 09:30      | Pfr. Hosbach      | GD            |
+~~19.11.2023~~   | ~~Albshausen~~  | 09:30      | Pfr. Hosbach      | GD            |
 19.11.2023   | Niederbiel      | 10:00      | Pfr. Pack         | GD            |
+19.11.2023   | Niederbiel      | 14:00      | Pfr. Dr. Sitzler  | Dienstentpflichtung Pfr. Pack |
 19.11.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
 19.11.2023   | Schwalbach      | 10:00      | Pfr/n. Vollmer    | GD im Gemeindehaus |
 19.11.2023   | Griedelbach     | 09:30      | Pfr. Dr. Sitzler  | GD            |
@@ -21,12 +22,12 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 19.11.2023   | Niederquembach  | 11:00      | Pfr. Ott          | GD            |
 19.11.2023   | Oberquembach    | 15:00      | Pfr. Ott          | GD            |
 19.11.2023   | Kröffelbach     | 16:30      | Pfr. Ott          | GD            |
-19.11.2023   | ~~Laufdorf~~    | 11:00      | Pfrn. Twittenhoff | GD            |
+~~19.11.2023~~   | ~~Laufdorf~~    | 11:00      | Pfrn. Twittenhoff | GD            |
 19.11.2023   | Niederwetz      | 09:30      | Pfr. Grubert      | GD            |
 19.11.2023   | Philippstein    | 12:00      | -                 | Gedenkveranstaltung am Denkmal unter der Burg |
 19.11.2023   | Altenkirchen    | 14:00      | -                 | Gedenkveranstaltung am Denkmal auf dem Friedhof |
-19.11.2023   | ~~Brandoberndorf~~  | 10:00      | Pfr. Lange        | GD            |
-19.11.2023   | ~~Weiperfelden~~    | 10:00      | Pfr. Lange        | GD            |
+~~19.11.2023~~   | ~~Brandoberndorf~~  | 10:00      | Pfr. Lange        | GD            |
+~~19.11.2023~~   | ~~Weiperfelden~~    | 10:00      | Pfr. Lange        | GD            |
 
 
 ## Links
