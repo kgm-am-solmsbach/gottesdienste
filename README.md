@@ -4,7 +4,7 @@ der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
 Stand: 13.11.2023, klaus.toscher bei der ekir
 - keine Daten von: den (noch) durchgestrichenen (ab Do. aus dem Amtsblatt)
-- keine Gottesdienste am 18./19.11.23 in: Bonbaden, Neukirchen
+- keine Gottesdienste am 18./19.11.23 in: Oberndorf, Bonbaden, Neukirchen
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
