@@ -50,6 +50,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 
 [KGM Brandoberndorf](https://ol.wittich.de/titel/1212/)
 
+KGM Altenkirchen-Philippstein - Entnommen aus dem Aushang an der Philippsteiner Kirche
 
 ## Legende
 - GD: Gottesdienst
