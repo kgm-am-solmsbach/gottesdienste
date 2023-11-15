@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 13.11.2023, klaus.toscher bei der ekir
+Stand: 15.11.2023, klaus.toscher bei der ekir
 - keine Daten von: den (noch) durchgestrichenen (ab Do. aus dem Amtsblatt)
 - keine Gottesdienste am 18./19.11.23 in: Oberndorf, Bonbaden, Neukirchen
 
@@ -12,7 +12,6 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 ~~19.11.2023~~   | ~~Leun~~        | 19:00      | Pfrn. Schuppener  | GD            |
 19.11.2023   | **Burgsolms**   | **09:30**  | **Pfrn. Offermann**  | **GD**     |
 ~~19.11.2023~~   | ~~Albshausen~~  | 09:30      | Pfr. Hosbach      | GD            |
-19.11.2023   | Niederbiel      | 10:00      | Pfr. Pack         | GD            |
 19.11.2023   | Niederbiel      | 14:00      | Pfr. Dr. Sitzler  | Dienstentpflichtung Pfr. Pack |
 19.11.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
 19.11.2023   | Schwalbach      | 10:00      | Pfr/n. Vollmer    | GD im Gemeindehaus |
