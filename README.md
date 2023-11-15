@@ -8,10 +8,12 @@ Stand: 15.11.2023, klaus.toscher bei der ekir
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
-~~19.11.2023~~  | ~~Tiefenbach~~   | 18:00      | Pfrn. Schuppener  | GD            |
-~~19.11.2023~~   | ~~Leun~~        | 19:00      | Pfrn. Schuppener  | GD            |
+18.11.2023   | Tiefenbach      | 15:00      | Pfrn. Schuppener  | Andacht auf dem Friedhof |
+19.11.2023   | Tiefenbach      | 11 - 17    |  -                | Offene Kirche            |
+19.11.2023   | Leun            | 11 - 14    |  -                | Offene Kirche            |
+19.11.2023   | Leun            | 14:30      | Pfrn. Schuppener  | Ökumenische Andacht zum Volkstrauertag |
 19.11.2023   | **Burgsolms**   | **09:30**  | **Pfrn. Offermann**  | **GD**     |
-~~19.11.2023~~   | ~~Albshausen~~  | 09:30      | Pfr. Hosbach      | GD            |
+~~19.11.2023~~   | ~~Albshausen~~  | 09:30  | Pfr. Hosbach      | GD       |
 19.11.2023   | Niederbiel      | 14:00      | Pfr. Dr. Sitzler  | Dienstentpflichtung Pfr. Pack |
 19.11.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
 19.11.2023   | Schwalbach      | 10:00      | Pfr/n. Vollmer    | GD im Gemeindehaus |
