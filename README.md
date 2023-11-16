@@ -2,18 +2,19 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 15.11.2023, klaus.toscher bei der ekir
-- keine Daten von: den (noch) durchgestrichenen (ab Do. aus dem Amtsblatt)
-- keine Gottesdienste am 18./19.11.23 in: Oberndorf, Bonbaden, Neukirchen
+Stand: 16.11.2023, klaus.toscher bei der ekir
+- keine Daten von den (noch) durchgestrichenen (falls verfügbar ab Do./Fr. aus dem Amtsblatt)
+- keine Gottesdienste am 18./19.11.23 in: Oberndorf, Bonbaden, Neukirchen, Weiperfelden
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
+18.11.2023   | Albshausen      | 18:00      | Pfr. Hosbach      | Meditationsgottesdienst, besinnliche Texte, umrahmt mit Musik, in einer ganz besonderen Atmosphäre |
 18.11.2023   | Tiefenbach      | 15:00      | Pfrn. Schuppener  | Andacht auf dem Friedhof |
 19.11.2023   | Tiefenbach      | 11 - 17    |  -                | Offene Kirche            |
 19.11.2023   | Leun            | 11 - 14    |  -                | Offene Kirche            |
 19.11.2023   | Leun            | 14:30      | Pfrn. Schuppener  | Ökumenische Andacht zum Volkstrauertag |
 19.11.2023   | **Burgsolms**   | **09:30**  | **Pfrn. Offermann**  | **GD**     |
-~~19.11.2023~~   | ~~Albshausen~~  | 09:30  | Pfr. Hosbach      | GD       |
+19.11.2023   | Albshausen      | 11:00      | -                 | Gedenkstunde am Ehrenmal, es singt der Männerchor |
 19.11.2023   | Niederbiel      | 14:00      | Pfr. Dr. Sitzler  | Dienstentpflichtung Pfr. Pack |
 19.11.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
 19.11.2023   | Schwalbach      | 10:00      | Pfr/n. Vollmer    | GD im Gemeindehaus |
@@ -27,8 +28,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 19.11.2023   | Niederwetz      | 09:30      | Pfr. Grubert      | GD            |
 19.11.2023   | Philippstein    | 12:00      | -                 | Gedenkveranstaltung am Denkmal unter der Burg |
 19.11.2023   | Altenkirchen    | 14:00      | -                 | Gedenkveranstaltung am Denkmal auf dem Friedhof |
-~~19.11.2023~~   | ~~Brandoberndorf~~  | 10:00      | Pfr. Lange        | GD            |
-~~19.11.2023~~   | ~~Weiperfelden~~    | 10:00      | Pfr. Lange        | GD            |
+19.11.2023   | Brandoberndorf  | 10:00      | Pfr. Lange        | Predigttext: Matthäus 25,31-46, Predigtthema: Der Richter kommt als Retter, Kollekte für die Aktionsgemeinschaft Dienst für den Frieden (AGDF & ASF) |
 
 
 ## Links
