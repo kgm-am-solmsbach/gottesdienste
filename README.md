@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 16.11.2023, klaus.toscher bei der ekir
+Stand: 18.11.2023, klaus.toscher@ekir.de
 - keine Daten von den (noch) durchgestrichenen (falls verfügbar ab Do./Fr. aus dem Amtsblatt)
 - keine Gottesdienste am 18./19.11.23 in: Oberndorf, Bonbaden, Neukirchen, Weiperfelden
 
@@ -24,7 +24,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 19.11.2023   | Niederquembach  | 11:00      | Pfr. Ott          | GD            |
 19.11.2023   | Oberquembach    | 15:00      | Pfr. Ott          | GD            |
 19.11.2023   | Kröffelbach     | 16:30      | Pfr. Ott          | GD            |
-~~19.11.2023~~   | ~~Laufdorf~~    | 11:00      | Pfrn. Twittenhoff | GD            |
+19.11.2023   | Laufdorf        | 11:00      | Pfrn. Twittenhoff | GD zum Volkstrauertag  |
 19.11.2023   | Niederwetz      | 09:30      | Pfr. Grubert      | GD            |
 19.11.2023   | Philippstein    | 12:00      | -                 | Gedenkveranstaltung am Denkmal unter der Burg |
 19.11.2023   | Altenkirchen    | 14:00      | -                 | Gedenkveranstaltung am Denkmal auf dem Friedhof |
