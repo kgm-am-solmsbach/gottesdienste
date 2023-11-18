@@ -33,25 +33,27 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 
 ## Links
 
-[KGM Am-Solmsbach (Burgsolms-Oberndorf)](https://burgsolms.ekir.de)
+[KGM Am-Solmsbach (Burgsolms-Oberndorf)](https://burgsolms.ekir.de) Quelle: Homapage
 
-[KGM Nieder- und Ober-Biel](http://www.kirche-niederbiel.de/termine)
+[KGM Nieder- und Ober-Biel](http://www.kirche-niederbiel.de/termine) Quelle: Homapage
 
-[KGM Schöffengrund - Waldsolms-Nord](https://schoeffengrund-waldsolms.ekir.de)
+[KGM Schöffengrund - Waldsolms-Nord](https://schoeffengrund-waldsolms.ekir.de) Quelle: Homapage
 
-[KGM Bonbaden-Neukirchen-Schwalbach](https://www.evangelisch-bonbaden-schwalbach-neukirchen.de/gottesdienste/)
+[KGM Bonbaden-Neukirchen-Schwalbach](https://www.evangelisch-bonbaden-schwalbach-neukirchen.de/gottesdienste/) Quelle: Homapage
 
-[KGM Braunfels](https://www.evangelisch-in-braunfels.de)
+[KGM Braunfels](https://www.evangelisch-in-braunfels.de) Quelle: Homapage
 
-[KGM Leun-Tiefenbach & Biskirchen-Bissenberg](https://ol.wittich.de/titel/1108/)
+[KGM Leun-Tiefenbach](http://evangelische-kirchengemeinde-leun.de/gottesdiensplan/) Quelle: Homepage
 
-[KGM Niederwetz](https://www.kirchengemeinde-nwrk.de/gemeinde-info/niederwetz/)
+[KGM Leun-Tiefenbach & Biskirchen-Bissenberg](https://ol.wittich.de/titel/1108/) Quelle: Amtsblatt
 
-[KGM Nauborn-Laufdorf](https://ol.wittich.de/titel/1161/)
+[KGM Niederwetz](https://www.kirchengemeinde-nwrk.de/gemeinde-info/niederwetz/) Quelle: Homepage
 
-[KGM Brandoberndorf](https://ol.wittich.de/titel/1212/)
+[KGM Nauborn-Laufdorf](https://ol.wittich.de/titel/1161/) Quelle: Amtsblatt
 
-KGM Altenkirchen-Philippstein - Entnommen aus dem Aushang an der Philippsteiner Kirche
+[KGM Brandoberndorf](https://ol.wittich.de/titel/1212/) Quelle: Amtsblatt
+
+KGM Altenkirchen-Philippstein - Quelle: Aushang an der Philippsteiner Kirche
 
 ## Legende
 - GD: Gottesdienst
