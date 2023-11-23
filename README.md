@@ -13,8 +13,10 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 25.11.2023   | Griedelbach     | 17:00      | Pfr. Ott          | GD            |
 26.11.2023   | **Oberndorf**   | **09:30**  | **Pfr. Perko**    | **GD zum Ewigkeitssonttag**     |
 26.11.2023   | **Burgsolms**   | **11:00**  | **Pfr. Perko**    | **GD zum Ewigkeitssonttag**     |
-25.11.2023   | Schwalbach      | 09:30      | Pfr/n. Vollmer    | GD mit Abendmahl |
-25.11.2023   | Bonbaden        | 11:00      | Pfr/n. Vollmer    | GD mit Abendmahl |
+26.11.2023   | Oberbiel        | 10:00      | Pfr. Weber        | GD mit Verstorbenen Gedenken |
+26.11.2023   | Niederbiel      | 14:00      | Pfr. Weber        | GD mit Verstorbenen Gedenken |
+26.11.2023   | Schwalbach      | 09:30      | Pfr/n. Vollmer    | GD mit Abendmahl |
+26.11.2023   | Bonbaden        | 11:00      | Pfr/n. Vollmer    | GD mit Abendmahl |
 26.11.2023   | Niederquembach  | 09:30      | Pfr. Ott          | GD            |
 26.11.2023   | Kröffelbach     | 16:30      | Pfr. Dr. Sitzler  | GD            |
 26.11.2023   | Kraftsolms      | 11:00      | Pfr. Ott          | GD            |
@@ -23,14 +25,13 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 26.11.2023   | Niederwetz      | 15:30      | Pfr. Grubert      | Andacht Friedhof |
 26.11.2023   | Leun            | 09:00      | Pfrn. Schuppener  | GD |
 26.11.2023   | Tiefenbach      | 11:00      | Pfrn. Schuppener  | GD |
-~~26.11.2023~~   | ~~Albshausen~~      | 11:00      | -                 | Gedenkstunde am Ehrenmal, es singt der Männerchor |
-26.11.2023   | Niederbiel      | 10:00      | Pfr. Weber        | GD mit Verstorbenen Gedenken |
-26.11.2023   | Niederbiel      | 14:00      | Pfr. Weber        | GD mit Verstorbenen Gedenken |
-19.11.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
-~~19.11.2023~~   | ~~Laufdorf~~        | ~~11:00~~      | Pfrn. Twittenhoff | GD  |
+26.11.2023   | Albshausen      | 09:30      | Pfr. Hosbach      | GD   |
+~~26.11.2023~~   | ~~Braunfels~~       | 11:00      | Pfr. Seuthe       | GD      |
+~~26.11.2023~~   | ~~Laufdorf~~        | ~~11:00~~      | Pfrn. Twittenhoff | GD  |
 26.11.2023   | Philippstein    | 15:30      | Pfr. Lange        | GD mit Abendmahl |
 26.11.2023   | Altenkirchen    | 11:00      | Pfr. Lange        | GD mit Abendmahl unter Mitwirkung der Chorgemeinschaft |
 26.11.2023   | Brandoberndorf  | 09:30      | Pfr. Lange        | GD am letzten Sonntag des Kirchenjahrs, Predigttext: Daniel 12,1b-3, Predigtthema: Vom Weltenende, Kollekte für die AG Hospiz der EKHN |
+26.11.2023   | Weiperfelden    | 17:00      | Pfr. Lange        | GD am letzten Sonntag des Kirchenjahrs, Predigttext: Daniel 12,1b-3, Predigtthema: Vom Weltenende, Kollekte für die AG Hospiz der EKHN |
 
 ## Links
 
