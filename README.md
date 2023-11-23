@@ -23,8 +23,8 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 26.11.2023   | Oberwetz        | 11:00      | Pfr. Dr. Sitzler  | GD            |
 26.11.2023   | Niederwetz      | 09:30      | Pfr. Grubert      | GD mit Abendmahl |
 26.11.2023   | Niederwetz      | 15:30      | Pfr. Grubert      | Andacht Friedhof |
-26.11.2023   | Leun            | 09:00      | Pfrn. Schuppener  | GD |
-26.11.2023   | Tiefenbach      | 11:00      | Pfrn. Schuppener  | GD |
+26.11.2023   | Leun            | 11:00      | Pfrn. Schuppener  | GD mit Abendmahl, im Anschluss spielt der Posaunenchor auf dem Friedhof |
+26.11.2023   | Tiefenbach      | 09:00      | Pfrn. Schuppener  | GD mit Abendmahl |
 26.11.2023   | Albshausen      | 09:30      | Pfr. Hosbach      | GD   |
 ~~26.11.2023~~   | ~~Braunfels~~       | 11:00      | Pfr. Seuthe       | GD      |
 ~~26.11.2023~~   | ~~Laufdorf~~        | ~~11:00~~      | Pfrn. Twittenhoff | GD  |
