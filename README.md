@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 23.11.2023, klaus.toscher@ekir.de
+Stand: 24.11.2023 17:56, klaus.toscher@ekir.de
 - keine Daten von den (noch) durchgestrichenen (falls verfügbar ab Do./Fr. aus dem Amtsblatt)
 - keine Gottesdienste am 25./26.11.23 in allen Orten die unten nicht aufgeführt sind
 
@@ -25,8 +25,8 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 26.11.2023   | Niederwetz      | 15:30      | Pfr. Grubert      | Andacht Friedhof |
 26.11.2023   | Leun            | 11:00      | Pfrn. Schuppener  | GD mit Abendmahl, im Anschluss spielt der Posaunenchor auf dem Friedhof |
 26.11.2023   | Tiefenbach      | 09:00      | Pfrn. Schuppener  | GD mit Abendmahl |
-26.11.2023   | Albshausen      | 09:30      | Pfr. Hosbach      | GD   |
-~~26.11.2023~~   | ~~Braunfels~~       | 11:00      | Pfr. Seuthe       | GD      |
+26.11.2023   | Albshausen      | 09:30      | Pfr. Hosbach      | GD            |
+26.11.2023   | Braunfels       | 11:00      | Pfrn. Hamacher    | GD in der Kirche St. Georgen mit Verlesung der im Kirchenjahr Verstorbenen, die kirchlich bestattet wurden |
 ~~26.11.2023~~   | ~~Laufdorf~~        | ~~11:00~~      | Pfrn. Twittenhoff | GD  |
 26.11.2023   | Philippstein    | 15:30      | Pfr. Lange        | GD mit Abendmahl |
 26.11.2023   | Altenkirchen    | 11:00      | Pfr. Lange        | GD mit Abendmahl unter Mitwirkung der Chorgemeinschaft |
