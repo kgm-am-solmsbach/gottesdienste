@@ -2,11 +2,12 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 30.11.2023 19:50, klaus.toscher@ekir.de
+Stand: 02.11.2023, klaus.toscher@ekir.de
 - keine Gottesdienste/Daten am 02./03.12.23 in allen Orten unterhalb des Trennstrichs (falls verfügbar ab Do./Fr. aus dem Amtsblatt)
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
+02.12.2023   | laufdorf        | 16:00      | Pfrn. Twittenhoff | Krabbel GD    |
 02.12.2023   | Kröffelbach     | 17:00      | Pfr. Dr. Sitzler  | GD            |
 02.12.2023   | Oberquembach    | 18:30      | Pfr. Dr. Sitzler  | GD            |
 03.12.2023   | **Burgsolms**   | **09:30**  | **Pfr. Perko**    | **GD zum ersten Advent**    |
@@ -17,13 +18,14 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 03.12.2023   | Schwalbach      | 18:00      | Pfr/n. Vollmer    | Abend GD mit Essen im Gemeindhaus inkl. lebendigem Adventskalender |
 03.12.2023   | Griedelbach     | 11:00      | Pfr. Dr. Sitzler  | GD            |
 03.12.2023   | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
+03.12.23     | Laufdorf        | 11:00      | Scheibel u. Team  | Advents GD der Frauen |
 03.12.2023   | Philippstein    | 18:00      | Raum Ost          | Regionalgottesdienst in Wolfenhausen |
 03.12.2023   | Altenkirchen    | 18:00      | Raum Ost          | Regionalgottesdienst in Wolfenhausen |
 03.12.2023   | Brandoberndorf  | 18:00      | Raum Ost          | Regionalgottesdienst in Wolfenhausen |
 03.12.2023   | Weiperfelden    | 18:00      | Raum Ost          | Regionalgottesdienst in Wolfenhausen |
 -------------|-----------------|------------|-------------------|---------------|
 keine Info   | Niederwetz      | 09:30      | Pfr. Grubert      | GD  |
-keine Info   | Laufdorf        | 09:30      | Pfrn. Twittenhoff | GD  |
+
 
 ## Links
 
