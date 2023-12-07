@@ -2,30 +2,29 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 02.11.2023, klaus.toscher@ekir.de
-- keine Gottesdienste/Daten am 02./03.12.23 in allen Orten unterhalb des Trennstrichs (falls verfügbar ab Do./Fr. aus dem Amtsblatt)
+Stand: 07.12.2023, klaus.toscher@ekir.de
+- keine Gottesdienste/Daten am 09./10.12.23 in allen Orten unterhalb des Trennstrichs (falls verfügbar ab Do. aus den Amtsblättern)
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
-02.12.2023   | laufdorf        | 16:00      | Pfrn. Twittenhoff | Krabbel GD    |
-02.12.2023   | Kröffelbach     | 17:00      | Pfr. Dr. Sitzler  | GD            |
-02.12.2023   | Oberquembach    | 18:30      | Pfr. Dr. Sitzler  | GD            |
-03.12.2023   | **Burgsolms**   | **09:30**  | **Pfr. Perko**    | **GD zum ersten Advent**    |
-26.11.2023   | Steindorf       | 11:00      | Pfr. Hosbach      | Fraunenhilfe GD  |
-03.12.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | Musikalischer Gottesdienst mit der Flötengruppe in der Friedenskirche mit anschl. Umtrunk. |
-03.12.23     | Tiefenbach      | 11:00      | Pfrn. Schuppener  | gemeinsamer GD zum 1. Advent in Tiefenbach - gestaltet von Frauen des Frauentreffs |
+09.12.2023   | Philippstein    | 10:00      | Pfrn. Lindemann   | Familien GD in der ev. Kita Philippstein |
+09.12.2023   | Altenkirchen    | 17:00      |                   | Adventskonzert des Akkordeonorchester Lemptal e.V. |
+09.12.2023   | Griedelbach     | 17:00      | Pfr. Dr. Sitzler  | Andacht mit Adventskonzert der Chöre |
+09.12.2023   | Kraftsolms      | 18:30      | Pfr. Ott          | GD mit Frauenchor |
+10.12.2023   | **Oberndorf**   | **09:30**  | **Pfr. Perko**    | **GD zum zweiten Advent**    |
+10.12.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
 03.12.2023   | Niederbiel      | 10:00      | Pfrn. i.R. M. Obitz  | GD mit Kinderchor "die Kolibries" |
-03.12.2023   | Schwalbach      | 18:00      | Pfr/n. Vollmer    | Abend GD mit Essen im Gemeindhaus inkl. lebendigem Adventskalender |
-03.12.2023   | Griedelbach     | 11:00      | Pfr. Dr. Sitzler  | GD            |
-03.12.2023   | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
-03.12.23     | Laufdorf        | 11:00      | Scheibel u. Team  | Advents GD der Frauen |
-03.12.2023   | Philippstein    | 18:00      | Raum Ost          | Regionalgottesdienst in Wolfenhausen |
-03.12.2023   | Altenkirchen    | 18:00      | Raum Ost          | Regionalgottesdienst in Wolfenhausen |
-03.12.2023   | Brandoberndorf  | 18:00      | Raum Ost          | Regionalgottesdienst in Wolfenhausen |
-03.12.2023   | Weiperfelden    | 18:00      | Raum Ost          | Regionalgottesdienst in Wolfenhausen |
--------------|-----------------|------------|-------------------|---------------|
-keine Info   | Niederwetz      | 09:30      | Pfr. Grubert      | GD  |
-
+03.12.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | UPDATE Gottesdienst im ev. Gemeindehaus |
+10.12.2023   | Oberquembach    | 11:00      | Pfr. Ott          | GD            |
+10.12.2023   | Niederquembach  | 16:00      | Pfr. Ott          | GD Offenes Adventssingen |
+10.12.2023   | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD Am zweiten Advent, Predigttext: Offenbarung 3.7 - 13, Predigtthema: Siehe, der Herr kommt bald, Kollekte für die Arbeit der Evangelischen Frauen in Hessen und Nassau |
+-------------|-----------------|------------|-------------------|----------------------------------------------------|
+keine Info   | Tiefenbach      | 11:00      | Pfrn. Schuppener  | GD            |
+kein GD      | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
+kein GD      | Weiperfelden    | 18:00      |                   | GD            |
+keine Info   | Niederwetz      | 09:30      | Pfr. Grubert      | GD            |
+keine Info   | Steindorf       | 11:00      | Pfr. Hosbach      | Fraunenhilfe GD  |
+keine Info   | Laufdorf        | 11:00      | Scheibel u. Team  | Advents GD der Frauen |
 
 ## Links
 
