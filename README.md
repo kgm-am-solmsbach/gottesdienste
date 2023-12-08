@@ -20,7 +20,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 10.12.2023   | Niederquembach  | 16:00      | Pfr. Ott          | GD Offenes Adventssingen |
 10.12.2023   | Niederwetz      | 11:00      | Pfr. Grubert      | GD            |
 10.12.2023   | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD Am zweiten Advent, Predigttext: Offenbarung 3.7 - 13, Predigtthema: Siehe, der Herr kommt bald, Kollekte für die Arbeit der Evangelischen Frauen in Hessen und Nassau |
--------------|-----------------|------------|-------------------|---------------------------------------------------- |
+------------ | --------------- | ---------- | ----------------- | ------------- |
 keine Info   | Tiefenbach      | 09:30      | Pfrn. Schuppener  | GD            |
 keine Info   | Leun            | 11:00      | Pfrn. Schuppener  | GD            |
 keine Info   | Laufdorf        | 11:00      | Pfr.              | GD            |
