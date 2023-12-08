@@ -16,17 +16,17 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 10.12.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
 10.12.2023   | Oberbiel        | 10:00      | Pfr. Weber        | GD gestaltet von der Frauenhilfe und dem Frauenchor Niederbiel |
 10.12.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | UPDATE Gottesdienst im ev. Gemeindehaus |
+10.12.2023   | Leun            | 11:00      | Pfrn. Schuppener  | gemeinsamer GD in Leun zum 2. Advent mit dem Posaunenchor und Michael Klein an der Orgel |
 10.12.2023   | Oberquembach    | 11:00      | Pfr. Ott          | GD            |
 10.12.2023   | Niederquembach  | 16:00      | Pfr. Ott          | GD Offenes Adventssingen |
 10.12.2023   | Niederwetz      | 11:00      | Pfr. Grubert      | GD            |
 10.12.2023   | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD Am zweiten Advent, Predigttext: Offenbarung 3.7 - 13, Predigtthema: Siehe, der Herr kommt bald, Kollekte für die Arbeit der Evangelischen Frauen in Hessen und Nassau |
 +++          | +++             | +++        | +++               | +++           |
-keine Info   | Tiefenbach      | 09:30      | Pfrn. Schuppener  | GD            |
-keine Info   | Leun            | 11:00      | Pfrn. Schuppener  | GD            |
-keine Info   | Laufdorf        | 11:00      | Pfr.              | GD            |
-kein GD      | Niederbiel      | 10:00      | Pfr.              | GD            |
-kein GD      | Weiperfelden    | 18:00      | Pfr.              | GD            |
-kein GD      | Albshausen      | 11:00      | Pfr.              | GD            |
+kein GD      | Tiefenbach      | -          | -                 | -             |
+keine Info   | Laufdorf        | -          | -                 | -             |
+kein GD      | Niederbiel      | -          | -                 | -             |
+kein GD      | Weiperfelden    | -          | -                 | -             |
+kein GD      | Albshausen      | -          | -                 | -             |
 
 
 ## Links
