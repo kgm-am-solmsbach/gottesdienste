@@ -2,28 +2,29 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 07.12.2023, klaus.toscher@ekir.de
+Stand: 08.12.2023, klaus.toscher@ekir.de
 - keine Gottesdienste/Daten am 09./10.12.23 in allen Orten unterhalb des Trennstrichs (falls verfügbar ab Do. aus den Amtsblättern)
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
 09.12.2023   | Philippstein    | 10:00      | Pfrn. Lindemann   | Familien GD in der ev. Kita Philippstein |
-09.12.2023   | Altenkirchen    | 17:00      |                   | Adventskonzert des Akkordeonorchester Lemptal e.V. |
+09.12.2023   | Altenkirchen    | 17:00      | -                 | Adventskonzert des Akkordeonorchester Lemptal e.V. |
 09.12.2023   | Griedelbach     | 17:00      | Pfr. Dr. Sitzler  | Andacht mit Adventskonzert der Chöre |
 09.12.2023   | Kraftsolms      | 18:30      | Pfr. Ott          | GD mit Frauenchor |
 10.12.2023   | **Oberndorf**   | **09:30**  | **Pfr. Perko**    | **GD zum zweiten Advent**    |
+10.12.2023   | **Oberndorf**   | **17:00**  | **Pfr. Perko /Dr. Hemmrich**  | **Weihnachtssingen**    |
 10.12.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
-03.12.2023   | Niederbiel      | 10:00      | Pfrn. i.R. M. Obitz  | GD mit Kinderchor "die Kolibries" |
-03.12.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | UPDATE Gottesdienst im ev. Gemeindehaus |
+10.12.2023   | Oberbiel        | 10:00      | Pfr. Weber        | GD gestaltet von der Frauenhilfe und dem Frauenchor Niederbiel |
+10.12.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | UPDATE Gottesdienst im ev. Gemeindehaus |
 10.12.2023   | Oberquembach    | 11:00      | Pfr. Ott          | GD            |
 10.12.2023   | Niederquembach  | 16:00      | Pfr. Ott          | GD Offenes Adventssingen |
+10.12.2023   | Niederwetz      | 11:00      | Pfr. Grubert      | GD            |
 10.12.2023   | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD Am zweiten Advent, Predigttext: Offenbarung 3.7 - 13, Predigtthema: Siehe, der Herr kommt bald, Kollekte für die Arbeit der Evangelischen Frauen in Hessen und Nassau |
--------------|-----------------|------------|-------------------|----------------------------------------------------|
+-------------|-----------------|------------|-------------------|---------------------------------------------------- |
 keine Info   | Tiefenbach      | 11:00      | Pfrn. Schuppener  | GD            |
-kein GD      | Oberwetz        | 09:30      | Pfr. Dr. Sitzler  | GD            |
-kein GD      | Weiperfelden    | 18:00      |                   | GD            |
-keine Info   | Niederwetz      | 09:30      | Pfr. Grubert      | GD            |
-keine Info   | Steindorf       | 11:00      | Pfr. Hosbach      | Fraunenhilfe GD  |
+kein GD      | Niederbiel      | 10:00      | Pfr.              | GD            |
+kein GD      | Weiperfelden    | 18:00      | Pfr.              | GD            |
+keine Info   | Albshausen      | 11:00      | Pfr. Hosbach      | GD            |
 keine Info   | Laufdorf        | 11:00      | Scheibel u. Team  | Advents GD der Frauen |
 
 ## Links
