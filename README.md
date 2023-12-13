@@ -18,7 +18,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 17.12.2023   | Griedelbach     | 09:30      | Pfr. Dr. Sitzler  | GD            |
 17.12.2023   | Niederquembach  | 11:00      | Pfr. Dr. Sitzler  | GD            |
 17.12.2023   | Philippstein    | 11:00      | Pfr. Lange        | GD            |
-20.12.2023   | **Burgsolms**   | **19:00**  | **Pfr. Perko /Dr. Hemmrich**  | **Andacht**    |
+20.12.2023   | **Burgsolms**   | **19:00**  | **Pfr. Perko /Dr. Hemmrich**  | **ökumenische Andacht**    |
 +++          | +++             | +++        | +++               | +++           |
 keine Info   | Leun            | -          | -                 | -             |
 keine Info   | Tiefenbach      | -          | -                 | -             |
