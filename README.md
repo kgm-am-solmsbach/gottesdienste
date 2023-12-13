@@ -2,30 +2,30 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 08.12.2023, klaus.toscher@ekir.de
-- keine Gottesdienste/Daten am 09./10.12.23 in allen Orten unterhalb des Trennstrichs (falls verfügbar ab Do. aus den Amtsblättern)
+Stand: 13.12.2023, klaus.toscher@ekir.de
+- keine Gottesdienste/Daten am 16./17.12.23 in allen Orten unterhalb des Trennstrichs (falls verfügbar ab Do. aus den Amtsblättern)
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
-09.12.2023   | Philippstein    | 10:00      | Pfrn. Lindemann   | Familien GD in der ev. Kita Philippstein |
-09.12.2023   | Altenkirchen    | 17:00      | -                 | Adventskonzert des Akkordeonorchester Lemptal e.V. |
-09.12.2023   | Griedelbach     | 17:00      | Pfr. Dr. Sitzler  | Andacht mit Adventskonzert der Chöre |
-09.12.2023   | Kraftsolms      | 18:30      | Pfr. Ott          | GD mit Frauenchor |
-10.12.2023   | **Oberndorf**   | **09:30**  | **Pfr. Perko**    | **GD zum zweiten Advent**    |
-10.12.2023   | **Oberndorf**   | **17:00**  | **Pfr. Perko /Dr. Hemmrich**  | **Weihnachtssingen**    |
-10.12.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
-10.12.2023   | Oberbiel        | 10:00      | Pfr. Weber        | GD gestaltet von der Frauenhilfe und dem Frauenchor Niederbiel |
-10.12.2023   | Bonbaden        | 10:30      | Pfr/n. Vollmer    | UPDATE Gottesdienst im ev. Gemeindehaus |
-10.12.2023   | Leun            | 11:00      | Pfrn. Schuppener  | gemeinsamer GD in Leun zum 2. Advent mit dem Posaunenchor und Michael Klein an der Orgel |
-10.12.2023   | Oberquembach    | 11:00      | Pfr. Ott          | GD            |
-10.12.2023   | Niederquembach  | 16:00      | Pfr. Ott          | GD Offenes Adventssingen |
-10.12.2023   | Niederwetz      | 11:00      | Pfr. Grubert      | GD            |
-10.12.2023   | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD Am zweiten Advent, Predigttext: Offenbarung 3.7 - 13, Predigtthema: Siehe, der Herr kommt bald, Kollekte für die Arbeit der Evangelischen Frauen in Hessen und Nassau |
+15.12.2023   | Niederbiel      | 19:00      | Pfr. Weber        | Adventsandacht |
+16.12.2023   | Oberwetz        | 16:30      | Pfr. Dr. Sitzler  | offenes Adventssingen |
+16.12.2023   | Weiperfelden    | 18:00      | Pfr. Lange        | GD            |
+16.12.2023   | Kröffelbach     | 18:30      | Pfr. Dr. Sitzler  | offenes Adventssingen |
+17.12.2023   | **Burgsolms**   | **09:30**  | **Pfrn. Offermann**  | **GD zum dritten Advent** |
+17.12.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | GD            |
+17.12.2023   | Niederbiel      | 10:00      | Pfr. Weber        | GD            |
+17.12.2023   | Neukirchen      | 10:00      | Pfr/n. Vollmer    | GD            |
+17.12.2023   | Griedelbach     | 09:30      | Pfr. Dr. Sitzler  | GD            |
+17.12.2023   | Niederquembach  | 11:00      | Pfr. Dr. Sitzler  | GD            |
+17.12.2023   | Philippstein    | 11:00      | Pfr. Lange        | GD            |
+20.12.2023   | **Burgsolms**   | **19:00**  | **Pfr. Perko /Dr. Hemmrich**  | **Andacht**    |
 +++          | +++             | +++        | +++               | +++           |
-kein GD      | Tiefenbach      | -          | -                 | -             |
+keine Info   | Leun            | -          | -                 | -             |
+keine Info   | Tiefenbach      | -          | -                 | -             |
 keine Info   | Laufdorf        | -          | -                 | -             |
-kein GD      | Niederbiel      | -          | -                 | -             |
-kein GD      | Weiperfelden    | -          | -                 | -             |
+kein GD      | Oberbiel        | -          | -                 | -             |
+kein GD      | Altenkirchen    | -          | -                 | -             |
+kein GD      | Brandoberndorf  | -          | -                 | -             |
 kein GD      | Albshausen      | -          | -                 | -             |
 
 
@@ -44,8 +44,6 @@ kein GD      | Albshausen      | -          | -                 | -             
 [KGM Leun-Tiefenbach](http://evangelische-kirchengemeinde-leun.de/gottesdiensplan/) Quelle: Homepage
 
 [KGM Leun-Tiefenbach & Biskirchen-Bissenberg](https://ol.wittich.de/titel/1108/) Quelle: Amtsblatt
-
-[KGM Niederwetz](https://www.kirchengemeinde-nwrk.de/gemeinde-info/niederwetz/) Quelle: Homepage
 
 [KGM Nauborn-Laufdorf](https://ol.wittich.de/titel/1161/) Quelle: Amtsblatt
 
