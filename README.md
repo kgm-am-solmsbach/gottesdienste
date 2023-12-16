@@ -18,7 +18,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 17.12.2023   | Neukirchen      | 10:00      | Pfr/n. Vollmer    | GD            |
 17.12.2023   | Griedelbach     | 09:30      | Pfr. Dr. Sitzler  | GD            |
 17.12.2023   | Niederquembach  | 11:00      | Pfr. Dr. Sitzler  | GD            |
-17.12.2023   | Tiefenbach      | 17:00      | keine Info        | gem. GD zum 3. Advent  |
+17.12.2023   | Tiefenbach      | 17:00      | keine Info        | gem. GD mit Leun |
 17.12.2023   | Philippstein    | 11:00      | Pfr. Lange        | GD            |
 17.12.2023   | Laufdorf        | 16:00      | keine Info        | Krippenspiel  |
 20.12.2023   | **Burgsolms**   | **19:00**  | **Pfr. Perko /Dr. Hemmrich**  | **ökumenische Andacht**    |
