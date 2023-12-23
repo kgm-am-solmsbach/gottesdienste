@@ -22,7 +22,6 @@ keine Gottesdienste/Daten am 26.12.23 in allen Orten unterhalb des Trennstrichs 
  26.12.2023   | Schwalbach      | 11:00      | Pfr/n. Vollmer    | GD mit Abendmahl |
  26.12.2023   | Braunfels       | 11:00      | Pfr. Seuthe       | Musikalischer GD |
  26.12.2023   | **Burgsolms**   | **20:00**  | **Pfr. Perko**    | **Abend GD**  |
- +++          | +++             | +++        | +++               | +++           | 
  kein GD      | Niederbiel      | -          | -                 | -             |
  kein GD      | Oberbiel        | -          | -                 | -             | 
  kein GD      | Leun            | -          | -                 | -             | 
