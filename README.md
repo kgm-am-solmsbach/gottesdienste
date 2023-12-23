@@ -14,6 +14,7 @@ keine Gottesdienste/Daten am 26.12.23 in allen Orten unterhalb des Trennstrichs 
  26.12.2023   | Neukirchen      | 09:30      | Pfr/n. Vollmer    | GD mit Abendmahl |
  26.12.2023   | Oberquembach    | 09:30      | Pfr. Ott          | GD mit Abendmahl |
  26.12.2023   | Kraftsolms      | 09:30      | Pfr. Dr. Sitzler  | GD mit Abendmahl |
+ 26.12.2023   | Tiefenbach      | 09:30      | unbekannt         | gemeinsamer GD mit Leun |
  26.12.2023   | Laufdorf        | 10:00      | Pfrn. Twittenhoff | GD mit Chor      |
  26.12.2023   | Steindorf       | 11:00      | Pfr. Hossbach     | GD               |
  26.12.2023   | Kröffelbach     | 11:00      | Pfr. Ott          | GD mit Abendmahl |
@@ -24,7 +25,6 @@ keine Gottesdienste/Daten am 26.12.23 in allen Orten unterhalb des Trennstrichs 
  +++          | +++             | +++        | +++               | +++           | 
  kein GD      | Niederbiel      | -          | -                 | -             |
  kein GD      | Oberbiel        | -          | -                 | -             | 
- kein GD      | Tiefenbach      | -          | -                 | -             |
  kein GD      | Leun            | -          | -                 | -             | 
  kein GD      | Philippstein    | -          | -                 | -             |
  kein GD      | Altenkirchen    | -          | -                 | -             | 
