@@ -27,12 +27,6 @@ keine Gottesdienste/Daten in allen Orten unterhalb des Trennstrichs (falls die I
  kein GD      | Philippstein    | -          | -                 | -             |
  kein GD      | Altenkirchen    | -          | -                 | -             | 
  kein GD      | Weiperfelden    | -          | -                 | -             |
-<!--- 17.12.2023   | Niederbiel      | 10:00      | Pfr. Weber        | GD            |
-<!--- 17.12.2023   | Neukirchen      | 10:00      | Pfr/n. Vollmer    | GD            |
- 17.12.2023   | Laufdorf        | 16:00      | keine Info        | Krippenspiel  |
- 16.12.2023   | Weiperfelden    | 18:00      | Pfr. Lange        | GD            |
- 20.12.2023   | **Burgsolms**   | **19:00**  | **Pfr. Perko /Dr. Hemmrich**  | **Andacht** | 
-
 
 ## Links
 
