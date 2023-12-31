@@ -6,7 +6,8 @@ Stand: 31.12.2023, klaus.toscher@ekir.de
 
 --------------------------------------------------------------------
 
-die Tabelle hat ab 2024 eine feste Struktur. Unter Veranstaltungen/Bemerkungen stahet immer der Status
+die Tabelle hat ab 2024 eine feste Struktur. Unter Veranstaltungen/Bemerkungen stahet immer der Status.
+Ich wünsche alles ein segensreiches neues Jahr 2024.
 
  Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
  ------------ | --------------- | ---------- | ----------------- | ----------------------- |
@@ -22,11 +23,11 @@ die Tabelle hat ab 2024 eine feste Struktur. Unter Veranstaltungen/Bemerkungen s
  31.12.2023   | Bonbaden        | -          | -                 | kein GD                 |
  31.12.2023   | Neukirchen      | -          | -                 | kein GD                 |
  31.12.2023   | Schwalbach      | 16:30      | Pfr/n. Vollmer    | Ökumenischer GD         |
- 31.12.2023   | Niederquembach  | -          | -                 | -                       |
- 31.12.2023   | Oberquembach    | -          | -                 | -                       | 
+ 31.12.2023   | Niederquembach  | -          | -                 | kein GD                 |
+ 31.12.2023   | Oberquembach    | -          | -                 | kein GD                 | 
  31.12.2023   | Oberwetz        | 11:00      | Pfr. Dr. Sitzler  | GD                      | 
- 31.12.2023   | Kraftsolms      | -          | -                 | -                       |
- 31.12.2023   | Kröffelbach     | -          | -                 | -                       |
+ 31.12.2023   | Kraftsolms      | -          | -                 | kein GD                 |
+ 31.12.2023   | Kröffelbach     | -          | -                 | kein GD                 |
  31.12.2023   | Griedelbach     | 09:30      | Pfr. Dr. Sitzler  | GD                      | 
  31.12.2023   | Laufdorf        | 16:30      | Pfrn. Twittenhoff | GD mit Abendmahl        |
  31.12.2023   | Brandoberndorf  | 18:00      | Prädn. Frenes, Gem.refn. Reusch | Ökumenischer GD |
