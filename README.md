@@ -21,7 +21,7 @@ keine Gottesdienste/Daten in allen Orten unterhalb des Trennstrichs (falls die I
  31.12.2023   | Niederbiel      | 17:00      | Lekn. Helga Meinecke | GD zum Altjahresabend/Silvester  |
  31.12.2023   | **Oberndorf**   | **18:00**  | **Pfr. Perko**    | **Altjahresbend GD**  |
  31.12.2023   | Bonbaden        | 18:00      | Pfr/n. Vollmer    | Ökumenischer GD |
- 23.12.2023   | Brandoberndorf  | 18:00      | Prädn. Frenes, Gem.refn. Reusch | Ökumenischer GD |
+ 31.12.2023   | Brandoberndorf  | 18:00      | Prädn. Frenes, Gem.refn. Reusch | Ökumenischer GD |
  31.12.2023   | Oberbiel        | 18:30      | unbekannt         | GD zum Altjahresabend/Silvester  |
  keine Info   | Steindorf       | -          | -                 | -             |
  kein GD      | Philippstein    | -          | -                 | -             |
