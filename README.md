@@ -11,8 +11,8 @@ keine Gottesdienste/Daten in allen Orten unterhalb des Trennstrichs (falls die I
  Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
  ------------ | --------------- | ---------- | ----------------- | ------------- |
  31.12.2023   | Griedelbach     | 09:30      | Pfr. Dr. Sitzler  | GD            | 
- 31.12.2023   | Leun            | 09:30      | unbekannt         | GD            |
- 31.12.2023   | Tiefenbach      | 11:00      | unbekannt         | GD            |
+ 31.12.2023   | Leun            | 09:30      | Pfr. Perko        | GD            |
+ 31.12.2023   | Tiefenbach      | 11:00      | Pfr. Perko        | GD            |
  31.12.2023   | Oberwetz        | 11:00      | Pfr. Dr. Sitzler  | GD            | 
  31.12.2023   | Schwalbach      | 16:30      | Pfr/n. Vollmer    | Ökumenischer GD |
  31.12.2023   | Braunfels       | 18:00      | Pfr. Seuthe       | Ökumenischer Jahresabschluss GD in der kath. St. Anna Kirche |
