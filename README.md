@@ -9,31 +9,31 @@ Stand: 01.02.2024, klaus.toscher@ekir.de
 Die Tabelle hat ab 2024 eine feste Struktur. Jeder Ort hat eine feste Nummer innerhalb der Liste.
 Unter Veranstaltungen/Bemerkungen stahet immer der Status. Ich wünsche alles ein segensreiches neues Jahr 2024.
 
- Nr. | Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
- --- | ------------ | --------------- | ---------- | ----------------- | ----------------------- |
-  01 | 01.01.2024   | **Burgsolms**   | **18:00**  | **Pfr. Perko**    | **Ökumenischer GD in der kath. Kirche** |
-  02 | 31.12.2023   | **Oberndorf**   | -          | -                 | **kein GD**             |
-  03 | 31.12.2023   | Braunfels       | 17:00      | Pfr. Seuthe       | Meditativer Gottesdienst zum Jahresbeginn in der Kirche St. Georgen |
-  04 | 31.12.2023   | Niederbiel      | -          | -                 | kein GD                 |
-  05 | 31.12.2023   | Oberbiel        | -          | -                 | kein GD                 |
-  06 | 31.12.2023   | Albshausen      | -          | -                 | kein GD                 |
-  07 | 31.12.2023   | Steindorf       | -          | -                 | keine Info              |
-  08 | 31.12.2023   | Leun            | -          | -                 | kein GD                 |
-  09 | 31.12.2023   | Tiefenbach      | -          | -                 | kein GD                 |
-  10 | 31.12.2023   | Bonbaden        | -          | -                 | kein GD                 |
-  11 | 31.12.2023   | Neukirchen      | -          | -                 | kein GD                 |
-  12 | 31.12.2023   | Schwalbach      | -          | -                 | kein GD                 |
-  13 | 31.12.2023   | Niederquembach  | -          | -                 | kein GD                 |
-  14 | 31.12.2023   | Oberquembach    | -          | -                 | kein GD                 | 
-  15 | 31.12.2023   | Oberwetz        | -          | -                 | kein GD                 |
-  16 | 31.12.2023   | Kraftsolms      | -          | -                 | kein GD                 |
-  17 | 31.12.2023   | Kröffelbach     | -          | -                 | kein GD                 |
-  18 | 31.12.2023   | Griedelbach     | -          | -                 | kein GD                 |
-  19 | 31.12.2023   | Laufdorf        | -          | -                 | kein GD                 |
-  20 | 31.12.2023   | Brandoberndorf  | -          | -                 | kein GD                 |
-  21 | 31.12.2023   | Weiperfelden    | -          | -                 | kein GD                 |
-  22 | 31.12.2023   | Philippstein    | -          | -                 | kein GD                 |
-  23 | 31.12.2023   | Altenkirchen    | -          | -                 | kein GD                 | 
+ Nr. | Datum      | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
+ --- | ---------- | --------------- | ---------- | ----------------- | ----------------------- |
+  01 | 01.01.2024 | **Burgsolms**   | **18:00**  | **Pfr. Perko**    | **Ökumenischer GD in der kath. Kirche** |
+  02 |            | **Oberndorf**   | -          | -                 | **kein GD**             |
+  03 |            | Braunfels       | 17:00      | Pfr. Seuthe       | Meditativer Gottesdienst zum Jahresbeginn in der Kirche St. Georgen |
+  04 |            | Niederbiel      | -          | -                 | kein GD                 |
+  05 |            | Oberbiel        | -          | -                 | kein GD                 |
+  06 |            | Albshausen      | -          | -                 | kein GD                 |
+  07 |            | Steindorf       | -          | -                 | keine Info              |
+  08 |            | Leun            | -          | -                 | kein GD                 |
+  09 |            | Tiefenbach      | -          | -                 | kein GD                 |
+  10 |            | Bonbaden        | -          | -                 | kein GD                 |
+  11 |            | Neukirchen      | -          | -                 | kein GD                 |
+  12 |            | Schwalbach      | -          | -                 | kein GD                 |
+  13 |            | Niederquembach  | -          | -                 | kein GD                 |
+  14 |            | Oberquembach    | -          | -                 | kein GD                 | 
+  15 |            | Oberwetz        | -          | -                 | kein GD                 |
+  16 |            | Kraftsolms      | -          | -                 | kein GD                 |
+  17 |            | Kröffelbach     | -          | -                 | kein GD                 |
+  18 |            | Griedelbach     | -          | -                 | kein GD                 |
+  19 |            | Laufdorf        | -          | -                 | kein GD                 |
+  20 |            | Brandoberndorf  | -          | -                 | kein GD                 |
+  21 |            | Weiperfelden    | -          | -                 | kein GD                 |
+  22 |            | Philippstein    | -          | -                 | kein GD                 |
+  23 |            | Altenkirchen    | -          | -                 | kein GD                 | 
  
 
 ## Links
