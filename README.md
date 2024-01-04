@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 01.02.2024, klaus.toscher@ekir.de
+Stand: 04.01.2024, klaus.toscher@ekir.de
 
 --------------------------------------------------------------------
 
@@ -11,26 +11,26 @@ Unter Veranstaltungen/Bemerkungen stahet immer der Status. Ich wünsche alles ei
 
  Nr. | Datum      | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
  --- | ---------- | --------------- | ---------- | ----------------- | ----------------------- |
-  01 | 01.01.2024 | **Burgsolms**   | **18:00**  | **Pfr. Perko**    | **Ökumenischer GD in der kath. Kirche** |
+  01 | 07.01.2024 | **Burgsolms**   | **09:30**  | **Pfr. Perko**    | **GD**                  |
   02 |            | **Oberndorf**   | -          | -                 | **kein GD**             |
-  03 |            | Braunfels       | 17:00      | Pfr. Seuthe       | Meditativer Gottesdienst zum Jahresbeginn in der Kirche St. Georgen |
-  04 |            | Niederbiel      | -          | -                 | kein GD                 |
-  05 |            | Oberbiel        | -          | -                 | kein GD                 |
-  06 |            | Albshausen      | -          | -                 | kein GD                 |
+  03 |            | Braunfels       | 11:00      | Pfr. Seuthe       | Musikalische Andacht "Ehre sei Gott in der Höhe - Gloria in excelsis Deo" |
+  04 |            | Niederbiel      | 10:00      | Pfr. Weber        | GD                      |
+  05 |            | Oberbiel        | -          | -                 | keine Info              |
+  06 |            | Albshausen      | -          | -                 | keine Info              |
   07 |            | Steindorf       | -          | -                 | keine Info              |
-  08 |            | Leun            | -          | -                 | kein GD                 |
-  09 |            | Tiefenbach      | -          | -                 | kein GD                 |
+  08 |            | Leun            | -          | -                 | keine Info              |
+  09 |            | Tiefenbach      | -          | -                 | keine Info              |
   10 |            | Bonbaden        | -          | -                 | kein GD                 |
-  11 |            | Neukirchen      | -          | -                 | kein GD                 |
+  11 |            | Neukirchen      | 10:00      | Pfr/n Vollmer     | GD                      |
   12 |            | Schwalbach      | -          | -                 | kein GD                 |
-  13 |            | Niederquembach  | -          | -                 | kein GD                 |
-  14 |            | Oberquembach    | -          | -                 | kein GD                 | 
-  15 |            | Oberwetz        | -          | -                 | kein GD                 |
-  16 |            | Kraftsolms      | -          | -                 | kein GD                 |
-  17 |            | Kröffelbach     | -          | -                 | kein GD                 |
-  18 |            | Griedelbach     | -          | -                 | kein GD                 |
-  19 |            | Laufdorf        | -          | -                 | kein GD                 |
-  20 |            | Brandoberndorf  | -          | -                 | kein GD                 |
+  13 | 07.01.2024 | Niederquembach  | 09:30      | Pfr. Ott          | GD                      | 
+  14 | 06.01.2024 | Oberquembach    | 17:30      | Pfr. Ott          | GD                      | 
+  15 | 07.01.2024 | Oberwetz        | -          | -                 | kein GD                 |
+  16 | 07.01.2024 | Kraftsolms      | 11:00      | Pfr. Ott          | GD                      | 
+  17 | 06.01.2024 | Kröffelbach     | 19:00      | Pfr. Ott          | GD                      | 
+  18 | 07.01.2024 | Griedelbach     | -          | -                 | kein GD                 |
+  19 |            | Laufdorf        | 09:30      | Pfrn. Twittenhoff | Meditativer GD          |
+  20 |            | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD                      |
   21 |            | Weiperfelden    | -          | -                 | kein GD                 |
   22 |            | Philippstein    | -          | -                 | kein GD                 |
   23 |            | Altenkirchen    | -          | -                 | kein GD                 | 
