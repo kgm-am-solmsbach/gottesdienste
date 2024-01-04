@@ -15,13 +15,13 @@ Unter Veranstaltungen/Bemerkungen stahet immer der Status. Ich wünsche alles ei
   02 |            | **Oberndorf**   | -          | -                 | **kein GD**             |
   03 |            | Braunfels       | 11:00      | Pfr. Seuthe       | Musikalische Andacht "Ehre sei Gott in der Höhe - Gloria in excelsis Deo" |
   04 |            | Niederbiel      | 10:00      | Pfr. Weber        | GD                      |
-  05 |            | Oberbiel        | -          | -                 | keine Info              |
+  05 |            | Oberbiel        | -          | -                 | kein GD                 |
   06 |            | Albshausen      | -          | -                 | keine Info              |
   07 |            | Steindorf       | -          | -                 | keine Info              |
   08 |            | Leun            | -          | -                 | keine Info              |
   09 |            | Tiefenbach      | -          | -                 | keine Info              |
   10 |            | Bonbaden        | -          | -                 | kein GD                 |
-  11 |            | Neukirchen      | 10:00      | Pfr/n Vollmer     | GD                      |
+  11 |            | Neukirchen      | 10:00      | Pfr/n. Vollmer    | GD                      |
   12 |            | Schwalbach      | -          | -                 | kein GD                 |
   13 | 07.01.2024 | Niederquembach  | 09:30      | Pfr. Ott          | GD                      | 
   14 | 06.01.2024 | Oberquembach    | 17:30      | Pfr. Ott          | GD                      | 
