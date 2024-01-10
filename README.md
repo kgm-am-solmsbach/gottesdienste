@@ -38,15 +38,15 @@ Unter Veranstaltungen/Bemerkungen stahet immer der Status. Ich wünsche alles ei
 
 ## Links
 
-[KGM Am-Solmsbach (Burgsolms-Oberndorf)](https://burgsolms.ekir.de) Quelle: Homapage
+[KGM Am-Solmsbach (Burgsolms-Oberndorf)](https://burgsolms.ekir.de) Quelle: Homepage
 
-[KGM Nieder- und Ober-Biel](http://www.kirche-niederbiel.de/termine) Quelle: Homapage
+[KGM Nieder- und Ober-Biel](http://www.kirche-niederbiel.de/termine) Quelle: Homepage
 
-[KGM Schöffengrund - Waldsolms-Nord](https://schoeffengrund-waldsolms.ekir.de) Quelle: Homapage
+[KGM Schöffengrund - Waldsolms-Nord](https://schoeffengrund-waldsolms.ekir.de) Quelle: Homepage
 
-[KGM Bonbaden-Neukirchen-Schwalbach](https://www.evangelisch-bonbaden-schwalbach-neukirchen.de/gottesdienste/) Quelle: Homapage
+[KGM Bonbaden-Neukirchen-Schwalbach](https://www.evangelisch-bonbaden-schwalbach-neukirchen.de/gottesdienste/) Quelle: Homepage
 
-[KGM Braunfels](https://www.evangelisch-in-braunfels.de) Quelle: Homapage
+[KGM Braunfels](https://www.evangelisch-in-braunfels.de) Quelle: Homepage
 
 [KGM Leun-Tiefenbach](http://evangelische-kirchengemeinde-leun.de/gottesdiensplan/) Quelle: Homepage
 
@@ -56,7 +56,7 @@ Unter Veranstaltungen/Bemerkungen stahet immer der Status. Ich wünsche alles ei
 
 [KGM Brandoberndorf](https://ol.wittich.de/titel/1212/) Quelle: Amtsblatt
 
-KGM Altenkirchen-Philippstein - Quelle: Aushang an der Philippsteiner Kirche
+KGM Altenkirchen-Philippstein - Quelle: Auszug aus dem Gemeindebrief (Danke an den Kirchenvorstand)
 
 ## Legende
 - GD: Gottesdienst
