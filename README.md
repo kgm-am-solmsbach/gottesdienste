@@ -7,7 +7,7 @@ Stand: 10.01.2024, klaus.toscher@ekir.de
 --------------------------------------------------------------------
 
 Die Tabelle hat ab 2024 eine feste Struktur. Jeder Ort hat eine feste Nummer innerhalb der Liste.
-Unter Veranstaltungen/Bemerkungen stahet immer der Status. Ich wünsche alles ein segensreiches neues Jahr 2024.
+Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status. Ich wünsche alles ein segensreiches neues Jahr 2024.
 
  Nr. | Datum      | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
  --- | ---------- | --------------- | ---------- | ----------------- | ----------------------- |
