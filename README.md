@@ -23,10 +23,10 @@ Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status. Ich wünsche
   10 |            | Bonbaden        | 10:00      | Pfr/n. Vollmer    | GD                      |
   11 |            | Neukirchen      | -          | -                 | kein GD                 |
   12 |            | Schwalbach      | -          | -                 | kein GD                 |
-  13 | 07.01.2024 | Niederquembach  | -          | -                 | kein GD                 |
-  14 | 06.01.2024 | Oberquembach    | 11:00      | Pfr. Ott          | GD                      | 
+  13 |            | Niederquembach  | -          | -                 | kein GD                 |
+  14 | 14.01.2024 | Oberquembach    | 11:00      | Pfr. Ott          | GD                      | 
   15 | 13.01.2024 | Oberwetz        | 17:30      | Pfr. Ott          | GD                      | 
-  16 | 07.01.2024 | Kraftsolms      | -          | -                 | kein GD                 |
+  16 |            | Kraftsolms      | -          | -                 | kein GD                 |
   17 | 14.01.2024 | Kröffelbach     | 09:30      | Pfr. Ott          | GD                      | 
   18 | 13.01.2024 | Griedelbach     | 19:00      | Pfr. Ott          | GD                      | 
   19 | 14.01.2024 | Laufdorf        | -          | -                 | keine Info              |
