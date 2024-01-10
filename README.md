@@ -11,28 +11,28 @@ Unter Veranstaltungen/Bemerkungen stahet immer der Status. Ich wünsche alles ei
 
  Nr. | Datum      | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
  --- | ---------- | --------------- | ---------- | ----------------- | ----------------------- |
-  01 | 07.01.2024 | **Burgsolms**   | **09:30**  | **Pfr. Perko**    | **GD**                  |
-  02 |            | **Oberndorf**   | -          | -                 | **kein GD**             |
-  03 |            | Braunfels       | 11:00      | Pfr. Seuthe       | Musikalische Andacht "Ehre sei Gott in der Höhe - Gloria in excelsis Deo" |
-  04 |            | Niederbiel      | 10:00      | Pfr. Weber        | GD                      |
-  05 |            | Oberbiel        | -          | -                 | kein GD                 |
+  01 | 14.01.2024 | **Burgsolms**   | -          | -                 | **kein GD**             |
+  02 |            | **Oberndorf**   | **09:30**  | **Pfrn. Offermann** | **GD**                |
+  03 |            | **Braunfels**   | **11:00**  | **Pfrn. Offermann** | **GD**                |
+  04 |            | Niederbiel      | -          | -                 | kein GD                 |
+  05 |            | Oberbiel        | 10:00      | Pfr. Weber        | GD                      |
   06 |            | Albshausen      | -          | -                 | keine Info              |
   07 |            | Steindorf       | -          | -                 | keine Info              |
   08 |            | Leun            | -          | -                 | keine Info              |
   09 |            | Tiefenbach      | -          | -                 | keine Info              |
-  10 |            | Bonbaden        | -          | -                 | kein GD                 |
-  11 |            | Neukirchen      | 10:00      | Pfr/n. Vollmer    | GD                      |
+  10 |            | Bonbaden        | 10:00      | Pfr/n. Vollmer    | GD                      |
+  11 |            | Neukirchen      | -          | -                 | kein GD                 |
   12 |            | Schwalbach      | -          | -                 | kein GD                 |
-  13 | 07.01.2024 | Niederquembach  | 09:30      | Pfr. Ott          | GD                      | 
-  14 | 06.01.2024 | Oberquembach    | 17:30      | Pfr. Ott          | GD                      | 
-  15 | 07.01.2024 | Oberwetz        | -          | -                 | kein GD                 |
-  16 | 07.01.2024 | Kraftsolms      | 11:00      | Pfr. Ott          | GD                      | 
-  17 | 06.01.2024 | Kröffelbach     | 19:00      | Pfr. Ott          | GD                      | 
-  18 | 07.01.2024 | Griedelbach     | -          | -                 | kein GD                 |
-  19 |            | Laufdorf        | 09:30      | Pfrn. Twittenhoff | Meditativer GD          |
-  20 |            | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD                      |
-  21 |            | Weiperfelden    | -          | -                 | kein GD                 |
-  22 |            | Philippstein    | -          | -                 | kein GD                 |
+  13 | 07.01.2024 | Niederquembach  | -          | -                 | kein GD                 |
+  14 | 06.01.2024 | Oberquembach    | 11:00      | Pfr. Ott          | GD                      | 
+  15 | 13.01.2024 | Oberwetz        | 17:30      | Pfr. Ott          | GD                      | 
+  16 | 07.01.2024 | Kraftsolms      | -          | -                 | kein GD                 |
+  17 | 14.01.2024 | Kröffelbach     | 09:30      | Pfr. Ott          | GD                      | 
+  18 | 13.01.2024 | Griedelbach     | 19:00      | Pfr. Ott          | GD                      | 
+  19 | 14.01.2024 | Laufdorf        | -          | -                 | keine Info              |
+  20 |            | Brandoberndorf  | -          | -                 | keine Info              |
+  21 |            | Weiperfelden    | -          | -                 | keine Info              |
+  22 |            | Philippstein    | 17:00      | Pfr. Lange        | GD                      |
   23 |            | Altenkirchen    | -          | -                 | kein GD                 | 
  
 
