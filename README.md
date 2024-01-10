@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 04.01.2024, klaus.toscher@ekir.de
+Stand: 10.01.2024, klaus.toscher@ekir.de
 
 --------------------------------------------------------------------
 
