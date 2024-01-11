@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 10.01.2024, klaus.toscher@ekir.de
+Stand: 11.01.2024, klaus.toscher@ekir.de
 
 --------------------------------------------------------------------
 
@@ -18,8 +18,8 @@ Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status. Ich wünsche
   05 |            | Oberbiel        | 10:00      | Pfr. Weber        | GD                      |
   06 |            | Albshausen      | -          | -                 | keine Info              |
   07 |            | Steindorf       | -          | -                 | keine Info              |
-  08 |            | Leun            | -          | -                 | keine Info              |
-  09 |            | Tiefenbach      | -          | -                 | keine Info              |
+  08 | 13.01.2024 | Leun            | 19:00      | ?                 | GD                      |
+  09 | 13.01.2024 | Tiefenbach      | 18:00      | ?                 | GD                      |
   10 |            | Bonbaden        | 10:00      | Pfr/n. Vollmer    | GD                      |
   11 |            | Neukirchen      | -          | -                 | kein GD                 |
   12 |            | Schwalbach      | -          | -                 | kein GD                 |
@@ -30,8 +30,8 @@ Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status. Ich wünsche
   17 | 14.01.2024 | Kröffelbach     | 09:30      | Pfr. Ott          | GD                      | 
   18 | 13.01.2024 | Griedelbach     | 19:00      | Pfr. Ott          | GD                      | 
   19 | 14.01.2024 | Laufdorf        | -          | -                 | keine Info              |
-  20 |            | Brandoberndorf  | -          | -                 | keine Info              |
-  21 |            | Weiperfelden    | -          | -                 | keine Info              |
+  20 |            | Brandoberndorf  | -          | -                 | kein GD                 |
+  21 |            | Weiperfelden    | 10:00      | Pfr. Lange        | am zweiten Sonntag nach Epiphanias<br>Predigtthema: Die Freiheit, als Christ zu leben<br>Predigttext: Hebräer 12 12-18, 22-25a<br> Kollekte für die Arbeit in der eigenen Gemeinde |
   22 |            | Philippstein    | 17:00      | Pfr. Lange        | GD                      |
   23 |            | Altenkirchen    | -          | -                 | kein GD                 | 
  
