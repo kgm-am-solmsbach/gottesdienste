@@ -7,7 +7,7 @@ Stand: 11.01.2024, klaus.toscher@ekir.de
 --------------------------------------------------------------------
 
 Die Tabelle hat ab 2024 eine feste Struktur. Jeder Ort hat eine feste Nummer innerhalb der Liste.
-Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status. Ich wünsche alles ein segensreiches neues Jahr 2024.
+Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status.
 
  Nr. | Datum      | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
  --- | ---------- | --------------- | ---------- | ----------------- | ----------------------- |
@@ -20,7 +20,7 @@ Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status. Ich wünsche
   07 |            | Steindorf       | -          | -                 | keine Info              |
   08 | 13.01.2024 | Leun            | 19:00      | ?                 | GD                      |
   09 | 13.01.2024 | Tiefenbach      | 18:00      | ?                 | GD                      |
-  10 |            | Bonbaden        | 10:00      | Pfr/n. Vollmer    | GD                      |
+  10 | 14.01.2024 | Bonbaden        | 10:00      | Pfr/n. Vollmer    | GD                      |
   11 |            | Neukirchen      | -          | -                 | kein GD                 |
   12 |            | Schwalbach      | -          | -                 | kein GD                 |
   13 |            | Niederquembach  | -          | -                 | kein GD                 |
@@ -32,7 +32,7 @@ Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status. Ich wünsche
   19 | 14.01.2024 | Laufdorf        | -          | -                 | keine Info              |
   20 |            | Brandoberndorf  | -          | -                 | kein GD                 |
   21 |            | Weiperfelden    | 10:00      | Pfr. Lange        | am zweiten Sonntag nach Epiphanias<br>Predigtthema: Die Freiheit, als Christ zu leben<br>Predigttext: Hebräer 12 12-18, 22-25a<br> Kollekte für die Arbeit in der eigenen Gemeinde |
-  22 |            | Philippstein    | 17:00      | Pfr. Lange        | GD                      |
+  22 | 14.01.2024 | Philippstein    | 17:00      | Pfr. Lange        | GD                      |
   23 |            | Altenkirchen    | -          | -                 | kein GD                 | 
  
 
