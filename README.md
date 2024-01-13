@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 11.01.2024, klaus.toscher@ekir.de
+Stand: 13.01.2024, klaus.toscher@ekir.de
 
 --------------------------------------------------------------------
 
@@ -16,8 +16,8 @@ Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status.
   03 |            | **Braunfels**   | **11:00**  | **Pfrn. Offermann** | **GD**                |
   04 |            | Niederbiel      | -          | -                 | kein GD                 |
   05 |            | Oberbiel        | 10:00      | Pfr. Weber        | GD                      |
-  06 |            | Albshausen      | -          | -                 | keine Info              |
-  07 |            | Steindorf       | -          | -                 | keine Info              |
+  06 |            | Albshausen      | -          | -                 | kein GD                 |
+  07 |            | Steindorf       | 11:00      | Pfr. Hossbach     | GD                      |
   08 | 13.01.2024 | Leun            | 19:00      | ?                 | GD                      |
   09 | 13.01.2024 | Tiefenbach      | 18:00      | ?                 | GD                      |
   10 | 14.01.2024 | Bonbaden        | 10:00      | Pfr/n. Vollmer    | GD                      |
@@ -32,7 +32,7 @@ Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status.
   19 | 14.01.2024 | Laufdorf        | -          | -                 | keine Info              |
   20 |            | Brandoberndorf  | -          | -                 | kein GD                 |
   21 |            | Weiperfelden    | 10:00      | Pfr. Lange        | am zweiten Sonntag nach Epiphanias<br>Predigtthema: Die Freiheit, als Christ zu leben<br>Predigttext: Hebräer 12 12-18, 22-25a<br> Kollekte für die Arbeit in der eigenen Gemeinde |
-  22 | 14.01.2024 | Philippstein    | 17:00      | Pfr. Lange        | GD                      |
+  22 |            | Philippstein    | 17:00      | Pfr. Lange        | am zweiten Sonntag nach Epiphanias<br>Predigtthema: Die Freiheit, als Christ zu leben<br>Predigttext: Hebräer 12 12-18, 22-25a<br> Kollekte für die Arbeit in der eigenen Gemeinde |
   23 |            | Altenkirchen    | -          | -                 | kein GD                 | 
  
 
