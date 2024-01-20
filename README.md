@@ -18,8 +18,8 @@ Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status.
   05 |            | Oberbiel        | -          | -                 | kein GD                 |
   06 |            | Albshausen      | -          | -                 | kein GD                 |
   07 | 21.01.2024 | Steindorf       | 11:00      | Pfr. Hossbach     | GD im Gemeindehaus      |
-  08 | 21.01.2024 | Leun            | 09:30      | Pfrn. Schuppener  | GD                      |
-  09 | 21.01.2024 | Tiefenbach      | 11:00      | Pfrn. Schuppener  | GD                      |
+  08 | 21.01.2024 | Leun            | 09:30      | keine Info        | gem. GD in Leun mit Abendmahl |
+  09 |            | Tiefenbach      | -          | -                 | kein GD                 |
   10 | 21.01.2024 | Bonbaden        | 10:00      | Pfr/n. Vollmer    | GD mit Abendmahl        |
   11 |            | Neukirchen      | -          | -                 | kein GD                 |
   12 | 20.01.2024 | Schwalbach      | 18:00      | Pfr/n. Vollmer    | GD im Gemeindehaus      |
