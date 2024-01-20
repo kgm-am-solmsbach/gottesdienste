@@ -11,8 +11,8 @@ Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status.
 
  Nr. | Datum      | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
  --- | ---------- | --------------- | ---------- | ----------------- | ----------------------- |
-  01 | 21.01.2024 | **Burgsolms**   | **09:30**  | **Pfr. Perko**    | **GD im Gemeindehaus**  |
-  02 | 21.01.2024 | **Oberndorf**   | -          | -                 | **kein GD**             |
+  01 | 21.01.2024 | **Am Solmsbach**<br>(Burgsolms) | **09:30**  | **Pfr. Perko**    | **GD im Gemeindehaus**  |
+  02 | 21.01.2024 | **Am Solmsbach**<br>(Oberndorf) | -          | -                 | **kein GD**             |
   03 | 21.01.2024 | **Braunfels**   | **11:00**  | **Pfr. Seuthe**   | **GD mit Abendmahl**    |
   04 | 21.01.2024 | Niederbiel      | 10:00      | Pfr. Weber        | GD in der Kirche        |
   05 |            | Oberbiel        | -          | -                 | kein GD                 |
