@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 13.01.2024, klaus.toscher@ekir.de
+Stand: 20.01.2024, klaus.toscher@ekir.de
 
 --------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status.
   16 | 20.01.2024 | Kraftsolms      | 17:30      | Pfr. Dr. Sitzler  | GD                      |
   17 |            | Kröffelbach     | -          | -                 | kein GD                 |
   18 | 21.01.2024 | Griedelbach     | 09:30      | Pfr. Dr. Sitzler  | GD                      | 
-  19 |            | Laufdorf        | -          | -                 | keine Info              |
+  19 | 21.01.2024 | Laufdorf        | 09:30      | Pfrn. Twittenhoff | GD                      |
   20 | 21.01.2024 | Brandoberndorf  | 10:00      | Pfr. Lange        | am dritten Sonntag nach Epiphanias<br>Predigtthema: Die Heilung Naamans<br>Predigttext: 2 Könige 5.9 - 15.19<br> Kollekte für die Aktion „Meere ohne Plastik“ - Nord- und Ostsee vor der Müllflut retten |
   21 |            | Weiperfelden    | -          | -                 | kein GD                 |
   22 |            | Philippstein    | -          | -                 | kein GD                 | 
