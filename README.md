@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 20.01.2024, klaus.toscher@ekir.de
+Stand: 26.01.2024, klaus.toscher@ekir.de
 
 --------------------------------------------------------------------
 
@@ -11,29 +11,29 @@ Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status.
 
  Nr. | Datum      | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
  --- | ---------- | --------------- | ---------- | ----------------- | ----------------------- |
-  01 | 21.01.2024 | **Am Solmsbach**<br>(Burgsolms) | **09:30**  | **Pfr. Perko**    | **GD im Gemeindehaus**  |
-  02 | 21.01.2024 | **Am Solmsbach**<br>(Oberndorf) | -          | -                 | **kein GD**             |
-  03 | 21.01.2024 | **Braunfels**   | **11:00**  | **Pfr. Seuthe**   | **GD mit Abendmahl**    |
-  04 | 21.01.2024 | Niederbiel      | 10:00      | Pfr. Weber        | GD in der Kirche        |
-  05 |            | Oberbiel        | -          | -                 | kein GD                 |
-  06 |            | Albshausen      | -          | -                 | kein GD                 |
-  07 | 21.01.2024 | Steindorf       | 11:00      | Pfr. Hossbach     | GD im Gemeindehaus      |
-  08 | 21.01.2024 | Leun            | 09:30      | keine Info        | gem. GD in Leun mit Abendmahl |
+  01 | 28.01.2024 | **Am Solmsbach**<br>(Burgsolms) | -     | -      | **kein GD**             |
+  02 | 28.01.2024 | **Am Solmsbach**<br>(Oberndorf) | **09:30**  | **Pfr. Offermann**    | **GD**  |
+  03 | 28.01.2024 | **Braunfels**   | **11:00**  | **Pfr. Seuthe**   | **GD**                  |
+  04 | 28.01.2024 | Niederbiel      | -          | -                 | kein GD                 |
+  05 |            | Oberbiel        | 10:00      | Pfr. Weber        | GD in der Kirche        |
+  06 |            | Albshausen      | -          | -                 | keine Info              |
+  07 |            | Steindorf       | -          | -                 | keine Info              |
+  08 | 28.01.2024 | Leun            | 14:00      | keine Info        | Orgelvesper             |
   09 |            | Tiefenbach      | -          | -                 | kein GD                 |
-  10 | 21.01.2024 | Bonbaden        | 10:00      | Pfr/n. Vollmer    | GD mit Abendmahl        |
-  11 |            | Neukirchen      | -          | -                 | kein GD                 |
-  12 | 20.01.2024 | Schwalbach      | 18:00      | Pfr/n. Vollmer    | GD im Gemeindehaus      |
-  13 | 20.01.2024 | Niederquembach  | 19:00      | Pfr. Dr. Sitzler  | GD                      |
+  10 |            | Bonbaden        | -          | -                 | kein GD                 |
+  11 | 28.01.2024 | Neukirchen      | 18:00      | Pfr/n. Vollmer    | Meditativer GD          |
+  12 | 20.01.2024 | Schwalbach      | -          | -                 | kein GD                 |
+  13 | 28.01.2024 | Niederquembach  | 09:30      | Pfr. Ott          | GD                      |
   14 |            | Oberquembach    | -          | -                 | kein GD                 |
-  15 | 21.01.2024 | Oberwetz        | 11:00      | Pfr. Dr. Sitzler  | GD                      |
-  16 | 20.01.2024 | Kraftsolms      | 17:30      | Pfr. Dr. Sitzler  | GD                      |
-  17 |            | Kröffelbach     | -          | -                 | kein GD                 |
-  18 | 21.01.2024 | Griedelbach     | 09:30      | Pfr. Dr. Sitzler  | GD                      | 
-  19 | 21.01.2024 | Laufdorf        | 09:30      | Pfrn. Twittenhoff | GD                      |
-  20 | 21.01.2024 | Brandoberndorf  | 10:00      | Pfr. Lange        | am dritten Sonntag nach Epiphanias<br>Predigtthema: Die Heilung Naamans<br>Predigttext: 2 Könige 5.9 - 15.19<br> Kollekte für die Aktion „Meere ohne Plastik“ - Nord- und Ostsee vor der Müllflut retten |
-  21 |            | Weiperfelden    | -          | -                 | kein GD                 |
-  22 |            | Philippstein    | -          | -                 | kein GD                 | 
-  23 | 21.01.2024 | Altenkirchen    | 10:00      | Pfr. Lange        | am dritten Sonntag nach Epiphanias<br>Predigtthema: Die Heilung Naamans<br>Predigttext: 2 Könige 5.9 - 15.19<br> Kollekte für die Aktion „Meere ohne Plastik“ - Nord- und Ostsee vor der Müllflut retten |
+  15 |            | Oberwetz        | -          | -                 | kein GD                 |
+  16 | 28.01.2024 | Kraftsolms      | 11:00      | Pfr. Ott          | GD                      |
+  17 | 27.01.2024 | Kröffelbach     | 11:00      | Pfr. Ott          | GD                      |
+  18 | 21.01.2024 | Griedelbach     | 09:30      | Pfr. Ott          | GD                      | 
+  19 | 21.01.2024 | Laufdorf        | -          | -                 | keine Info              |
+  20 | 27.01.2024 | Brandoberndorf  | 18:00      | Pfr. Lange        | Gedenkgottesdienst am Internationalen Holocaust-Gedenktag  |
+  21 |            | Weiperfelden    | 18:00      | -                 | kein GD                 |
+  22 | 28.01.2024 | Philippstein    | 18:00      | mehrere Pfr.      | Gottesdienst im Nachbarschaftsraum, Kirche Weinbach | 
+  23 |            | Altenkirchen    | 18:00      | -                 | kein GD                 | 
  
 
 ## Links
