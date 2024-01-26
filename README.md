@@ -14,8 +14,8 @@ Unter Veranstaltungen/Bemerkungen steht immer der aktuelle Status.
   01 | 28.01.2024 | **Am Solmsbach**<br>(Burgsolms) | -     | -      | **kein GD**             |
   02 | 28.01.2024 | **Am Solmsbach**<br>(Oberndorf) | **09:30**  | **Pfr. Offermann**    | **GD**  |
   03 | 28.01.2024 | **Braunfels**   | **11:00**  | **Pfr. Seuthe**   | **GD**                  |
-  04 | 28.01.2024 | Niederbiel      | -          | -                 | kein GD                 |
-  05 |            | Oberbiel        | 10:00      | Pfr. Weber        | GD in der Kirche        |
+  04 |            | Niederbiel      | -          | -                 | kein GD                 |
+  05 | 28.01.2024 | Oberbiel        | 10:00      | Pfr. Weber        | GD in der Kirche        |
   06 |            | Albshausen      | -          | -                 | keine Info              |
   07 |            | Steindorf       | -          | -                 | keine Info              |
   08 | 28.01.2024 | Leun            | 14:00      | keine Info        | Orgelvesper             |
@@ -24,16 +24,17 @@ Unter Veranstaltungen/Bemerkungen steht immer der aktuelle Status.
   11 | 28.01.2024 | Neukirchen      | 18:00      | Pfr/n. Vollmer    | Meditativer GD          |
   12 | 20.01.2024 | Schwalbach      | -          | -                 | kein GD                 |
   13 | 28.01.2024 | Niederquembach  | 09:30      | Pfr. Ott          | GD                      |
-  14 |            | Oberquembach    | -          | -                 | kein GD                 |
+  14 | 28.01.2024 | Oberquembach    | 19:00      | Pfr. Ott          | GD                      |
   15 |            | Oberwetz        | -          | -                 | kein GD                 |
   16 | 28.01.2024 | Kraftsolms      | 11:00      | Pfr. Ott          | GD                      |
-  17 | 27.01.2024 | Kröffelbach     | 11:00      | Pfr. Ott          | GD                      |
-  18 | 21.01.2024 | Griedelbach     | 09:30      | Pfr. Ott          | GD                      | 
-  19 | 21.01.2024 | Laufdorf        | -          | -                 | keine Info              |
+  17 | 27.01.2024 | Kröffelbach     | 17:00      | Pfr. Ott          | GD                      |
+  18 |            | Griedelbach     | -          | -                 | kein GD                 | 
+  19 |            | Laufdorf        | -          | -                 | keine Info              |
   20 | 27.01.2024 | Brandoberndorf  | 18:00      | Pfr. Lange        | Gedenkgottesdienst am Internationalen Holocaust-Gedenktag  |
-  21 |            | Weiperfelden    | 18:00      | -                 | kein GD                 |
-  22 | 28.01.2024 | Philippstein    | 18:00      | mehrere Pfr.      | Gottesdienst im Nachbarschaftsraum, Kirche Weinbach | 
-  23 |            | Altenkirchen    | 18:00      | -                 | kein GD                 | 
+  20 | 28.01.2024 | Brandoberndorf  | 18:00      |                   | Gottesdienst im Nachbarschaftsraum, Kirche Weinbach | 
+  21 |            | Weiperfelden    | 18:00      |  mehrere Pfarr-   | Gottesdienst im Nachbarschaftsraum, Kirche Weinbach | 
+  22 | 28.01.2024 | Philippstein    | 18:00      |   Persponen       | Gottesdienst im Nachbarschaftsraum, Kirche Weinbach | 
+  23 |            | Altenkirchen    | 18:00      |                   | Gottesdienst im Nachbarschaftsraum, Kirche Weinbach | 
  
 
 ## Links
