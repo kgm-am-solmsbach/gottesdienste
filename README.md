@@ -7,7 +7,7 @@ Stand: 26.01.2024, klaus.toscher@ekir.de
 --------------------------------------------------------------------
 
 Die Tabelle hat ab 2024 eine feste Struktur. Jeder Ort hat eine feste Nummer innerhalb der Liste.
-Unter Veranstaltungen/Bemerkungen stehet immer der aktuelle Status.
+Unter Veranstaltungen/Bemerkungen steht immer der aktuelle Status.
 
  Nr. | Datum      | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
  --- | ---------- | --------------- | ---------- | ----------------- | ----------------------- |
