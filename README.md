@@ -24,7 +24,7 @@ Unter Veranstaltungen/Bemerkungen steht immer der aktuelle Status.
   11 | 28.01.2024 | Neukirchen      | 18:00      | Pfr/n. Vollmer    | Meditativer GD          |
   12 | 20.01.2024 | Schwalbach      | -          | -                 | kein GD                 |
   13 | 28.01.2024 | Niederquembach  | 09:30      | Pfr. Ott          | GD                      |
-  14 | 28.01.2024 | Oberquembach    | 19:00      | Pfr. Ott          | GD                      |
+  14 | 27.01.2024 | Oberquembach    | 19:00      | Pfr. Ott          | GD                      |
   15 |            | Oberwetz        | -          | -                 | kein GD                 |
   16 | 28.01.2024 | Kraftsolms      | 11:00      | Pfr. Ott          | GD                      |
   17 | 27.01.2024 | Kröffelbach     | 17:00      | Pfr. Ott          | GD                      |
