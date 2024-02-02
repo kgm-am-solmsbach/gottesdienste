@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand: 26.01.2024, klaus.toscher@ekir.de
+Stand:  02.02.2024, klaus.toscher@ekir.de
 
 --------------------------------------------------------------------
 
@@ -11,30 +11,29 @@ Unter Veranstaltungen/Bemerkungen steht immer der aktuelle Status.
 
  Nr. | Datum      | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
  --- | ---------- | --------------- | ---------- | ----------------- | ----------------------- |
-  01 | 28.01.2024 | **Am Solmsbach**<br>(Burgsolms) | -     | -      | **kein GD**             |
-  02 | 28.01.2024 | **Am Solmsbach**<br>(Oberndorf) | **09:30**  | **Pfr. Offermann**    | **GD**  |
-  03 | 28.01.2024 | **Braunfels**   | **11:00**  | **Pfr. Seuthe**   | **GD**                  |
-  04 |            | Niederbiel      | -          | -                 | kein GD                 |
-  05 | 28.01.2024 | Oberbiel        | 10:00      | Pfr. Weber        | GD in der Kirche        |
+  01 | 04.02.2024 | **Am Solmsbach**<br>(Burgsolms) | **09:30**  | **Pfr. Offermann**    | **GD**  |
+  02 |            | **Am Solmsbach**<br>(Oberndorf) | -     | -      | **kein GD**             |
+  03 | 04.02.2024 | **Braunfels**   | **11:00**  | **Pfr. Seuthe**   | **GD**                  |
+  04 | 04.02.2024 | Niederbiel      | 10:00      | Pfr. Weber        | GD in der Kirche        |
+  05 |            | Oberbiel        | -          | -                 | kein GD                 |
   06 |            | Albshausen      | -          | -                 | keine Info              |
   07 |            | Steindorf       | -          | -                 | keine Info              |
-  08 | 28.01.2024 | Leun            | 14:00      | keine Info        | Orgelvesper             |
-  09 |            | Tiefenbach      | -          | -                 | kein GD                 |
+  08 | 04.02.2024 | Leun            | -          | -                 | kein GD                 |
+  09 |            | Tiefenbach      | 09:30      | Pfr- Seuthe ??    | gemeinsamer GD mit Leun |
   10 |            | Bonbaden        | -          | -                 | kein GD                 |
-  11 | 28.01.2024 | Neukirchen      | 18:00      | Pfr/n. Vollmer    | Meditativer GD          |
-  12 | 20.01.2024 | Schwalbach      | -          | -                 | kein GD                 |
-  13 | 28.01.2024 | Niederquembach  | 09:30      | Pfr. Ott          | GD                      |
-  14 | 27.01.2024 | Oberquembach    | 19:00      | Pfr. Ott          | GD                      |
-  15 |            | Oberwetz        | -          | -                 | kein GD                 |
-  16 | 28.01.2024 | Kraftsolms      | 11:00      | Pfr. Ott          | GD                      |
-  17 | 27.01.2024 | Kröffelbach     | 17:00      | Pfr. Ott          | GD                      |
-  18 |            | Griedelbach     | -          | -                 | kein GD                 | 
+  11 |            | Neukirchen      | -          | -                 | kein GD                 |
+  12 | 04.02.2024 | Schwalbach      | 18:00      | Pfr/n. Vollmer    | Abend GD m. Abendessen  |
+  13 |            | Niederquembach  | -          | -                 | kein GD                 |
+  14 |            | Oberquembach    | -          | -                 | kein GD                 |
+  15 | 04.02.2024 | Oberwetz        | 09:30      | Pfr. Ott          | GD                      |
+  16 |            | Kraftsolms      | -          | -                 | kein GD                 |
+  17 |            | Kröffelbach     | -          | -                 | kein GD                 |
+  18 | 04.02.2024 | Griedelbach     | 11:00      | Pfr. Ott          | GD                      |
   19 |            | Laufdorf        | -          | -                 | keine Info              |
-  20 | 27.01.2024 | Brandoberndorf  | 18:00      | Pfr. Lange        | Gedenkgottesdienst am Internationalen Holocaust-Gedenktag  |
-  20 | 28.01.2024 | Brandoberndorf  | 18:00      |                   | Gottesdienst im Nachbarschaftsraum, Kirche Weinbach | 
-  21 |            | Weiperfelden    | 18:00      |  mehrere Pfarr-   | Gottesdienst im Nachbarschaftsraum, Kirche Weinbach | 
-  22 | 28.01.2024 | Philippstein    | 18:00      |   Persponen       | Gottesdienst im Nachbarschaftsraum, Kirche Weinbach | 
-  23 |            | Altenkirchen    | 18:00      |                   | Gottesdienst im Nachbarschaftsraum, Kirche Weinbach | 
+  20 | 04.02.2024 | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD in der Seniorenwohnanlage Haus Solmsbachtal, Zingelstraße 27 |
+  21 |            | Weiperfelden    | -          | -                 | kein GD                 |
+  22 |            | Philippstein    | -          | -                 | kein GD                 |
+  23 |            | Altenkirchen    | -          | -                 | kein GD                 |
  
 
 ## Links
