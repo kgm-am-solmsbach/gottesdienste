@@ -2,7 +2,7 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand:  02.02.2024, klaus.toscher@ekir.de
+Stand:  03.02.2024, klaus.toscher@ekir.de
 
 --------------------------------------------------------------------
 
@@ -16,10 +16,10 @@ Unter Veranstaltungen/Bemerkungen steht immer der aktuelle Status.
   03 | 04.02.2024 | **Braunfels**   | **11:00**  | **Pfr. Seuthe**   | **GD**                  |
   04 | 04.02.2024 | Niederbiel      | 10:00      | Pfr. Weber        | GD in der Kirche        |
   05 |            | Oberbiel        | -          | -                 | kein GD                 |
-  06 |            | Albshausen      | -          | -                 | keine Info              |
-  07 |            | Steindorf       | -          | -                 | keine Info              |
-  08 | 04.02.2024 | Leun            | -          | -                 | kein GD                 |
-  09 |            | Tiefenbach      | 09:30      | Pfr- Seuthe ??    | gemeinsamer GD mit Leun |
+  06 |            | Albshausen      | -          | -                 | kein GD                 |
+  07 | 04.02.2024 | Steindorf       | 11:00      | Pfr. Hossbach     | GD im Gemeindehaus      |
+  08 |            | Leun            | -          | -                 | kein GD                 |
+  09 | 04.02.2024 | Tiefenbach      | 09:30      | Pfr- Seuthe ??    | gemeinsamer GD mit Leun |
   10 |            | Bonbaden        | -          | -                 | kein GD                 |
   11 |            | Neukirchen      | -          | -                 | kein GD                 |
   12 | 04.02.2024 | Schwalbach      | 18:00      | Pfr/n. Vollmer    | Abend GD m. Abendessen  |
@@ -29,7 +29,7 @@ Unter Veranstaltungen/Bemerkungen steht immer der aktuelle Status.
   16 |            | Kraftsolms      | -          | -                 | kein GD                 |
   17 |            | Kröffelbach     | -          | -                 | kein GD                 |
   18 | 04.02.2024 | Griedelbach     | 11:00      | Pfr. Ott          | GD                      |
-  19 |            | Laufdorf        | -          | -                 | keine Info              |
+  19 | 04.02.2024 | Laufdorf        | 09:30      | Pfrn. Twittenhoff | keine Info              |
   20 | 04.02.2024 | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD in der Seniorenwohnanlage Haus Solmsbachtal, Zingelstraße 27 |
   21 |            | Weiperfelden    | -          | -                 | kein GD                 |
   22 |            | Philippstein    | -          | -                 | kein GD                 |
