@@ -29,7 +29,7 @@ Unter Veranstaltungen/Bemerkungen steht immer der aktuelle Status.
   16 |            | Kraftsolms      | -          | -                 | kein GD                 |
   17 |            | Kröffelbach     | -          | -                 | kein GD                 |
   18 | 04.02.2024 | Griedelbach     | 11:00      | Pfr. Ott          | GD                      |
-  19 | 04.02.2024 | Laufdorf        | 09:30      | Pfrn. Twittenhoff | keine Info              |
+  19 | 04.02.2024 | Laufdorf        | 09:30      | Pfrn. Twittenhoff | GD                      |
   20 | 04.02.2024 | Brandoberndorf  | 10:00      | Prädn. Frenes     | GD in der Seniorenwohnanlage Haus Solmsbachtal, Zingelstraße 27 |
   21 |            | Weiperfelden    | -          | -                 | kein GD                 |
   22 |            | Philippstein    | -          | -                 | kein GD                 |
