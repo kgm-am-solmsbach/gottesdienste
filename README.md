@@ -26,7 +26,7 @@ Stand:  24.02.2024, klaus.toscher@ekir.de
   16 |            | Kraftsolms      | -          | -                 | kein GD                 |
   17 |            | Kröffelbach     | -          | -                 | kein GD                 |
   18 | 24.02.2024 | Griedelbach     | 18:30      | Pfr. Ott          | GD                      |
-  19 | 24.02.2024 | Laufdorf        | 09:30      | Pfrn. Twittenhoff | GD                      |
+  19 | 25.02.2024 | Laufdorf        | 09:30      | Pfrn. Twittenhoff | GD                      |
   20 | 25.02.2024 | Brandoberndorf  | 11:00      | Prädn. Ulrich     | GD im Gemeindehaus, am Sonntag Reminiszere, Predigtthema: Mose und die eherne Schlange, Predigttext: Numeri 21.4 - 9, Kollekte für die Arbeit der Telefonseelsorge |
   21 |            | Weiperfelden    | -          | -                 | kein GD                 |
   22 |            | Philippstein    | -          | -                 | kein GD                 |
