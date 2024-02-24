@@ -2,35 +2,35 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
 
-Stand:  16.02.2024, klaus.toscher@ekir.de
+Stand:  24.02.2024, klaus.toscher@ekir.de
 
 --------------------------------------------------------------------
 
  Nr. | Datum      | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
  --- | ---------- | --------------- | ---------- | ----------------- | ----------------------- |
-  01 | 18.02.2024 | **Am Solmsbach**<br>(Burgsolms) | **09:30**  | **Pfr. Perko**    | **GD**  |
-  02 |            | **Am Solmsbach**<br>(Oberndorf) | -     | -      | **kein GD**             |
-  03 | 18.02.2024 | **Braunfels**   | **11:00**  | **Pfr. Seuthe**   | **GD**                  |
-  04 |            | Oberbiel        | -          | -                 | kein GD                 |
-  05 | 18.02.2024 | Niederbiel      | 10:00      | Pfr. Weber        | GD in der Kirche        |
-  06 | 11.02.2024 | Albshausen      | 09:30      | Pfr. Hossbach     | GD im Gemeindehaus      |
+  01 | 25.02.2024 | **Am Solmsbach**<br>(Burgsolms) | -     | -      | **kein GD**             |
+  02 |            | **Am Solmsbach**<br>(Oberndorf) | **09:30**  | **Pfr. Perko**    | **GD**  |
+  03 | 25.02.2024 | **Braunfels**   | **11:00**  | **Pfr. Seuthe**   | **GD**                  |
+  04 | 25.02.2024 | Oberbiel        | 10:00      | Pfr. Weber        | GD in der Kirche        |
+  05 |            | Niederbiel      | -          | -                 | kein GD                 |
+  06 | 25.02.2024 | Albshausen      | 09:30      | Pfr. Hossbach     | GD im Gemeindehaus      |
   07 |            | Steindorf       | -          | -                 | kein GD                 |
   08 | 10.02.2024 | Leun            | -          | -                 | kein GD                 |
   09 | 18.02.2024 | Tiefenbach      | 10:00      | keine Info        | gemeinsamer GD mit Leun |
-  10 | 17.02.2024 | Bonbaden        | 18:00      | Pfr/n. Vollmer    | GD in der Kirche        |
-  11 | 18.02.2024 | Neukirchen      | 10:00      | Pfr/n. Vollmer    | GD in der Kirche        |
-  12 |            | Schwalbach      | -          | -                 | kein GD                 |
-  13 | 18.02.2024 | Niederquembach  | 16:00      | Pfr. Ott          | Rüstzeit für Konfis     |
+  10 | 25.02.2024 | Bonbaden        | 18:00      | -                 | Orgelkonzert in der Kirche  |
+  11 |            | Neukirchen      | -          | -                 | kein GD                 |
+  12 | 25.02.2024 | Schwalbach      | 10:00      | Pfr/n. Vollmer    | GD im Gemeindehaus      |
+  13 |            | Niederquembach  | -          | -                 | kein GD                 |
   14 |            | Oberquembach    | -          | -                 | kein GD                 |
-  15 |            | Oberwetz        | -          | -                 | kein GD                 |
+  15 | 24.02.2024 | Oberwetz        | 17:00      | Pfr. Ott          | GD                      |
   16 |            | Kraftsolms      | -          | -                 | kein GD                 |
   17 |            | Kröffelbach     | -          | -                 | kein GD                 |
-  18 | 18.02.2024 | Griedelbach     | 16:00      | Pfr. Dr. Sitzler  | Rüstzeit für Konfis     |
-  19 |            | Laufdorf        | -          | -                 | keine Info              |
-  20 | 18.02.2024 | Brandoberndorf  | 10:00      | Prädn. Dienst     | GD im Gemeindehaus      |
+  18 | 24.02.2024 | Griedelbach     | 18:30      | Pfr. Ott          | GD                      |
+  19 | 24.02.2024 | Laufdorf        | 09:30      | Pfrn. Twittenhoff | GD                      |
+  20 | 25.02.2024 | Brandoberndorf  | 11:00      | Prädn. Ulrich     | GD im Gemeindehaus, am Sonntag Reminiszere, Predigtthema: Mose und die eherne Schlange, Predigttext: Numeri 21.4 - 9, Kollekte für die Arbeit der Telefonseelsorge |
   21 |            | Weiperfelden    | -          | -                 | kein GD                 |
   22 |            | Philippstein    | -          | -                 | kein GD                 |
-  23 |            | Altenkirchen    | -          | -                 | kein GD                 |
+  23 | 25.02.2024 | Altenkirchen    | 10:00      | Prädn. S. Dienst  | GD                      |
  
 
 ## Links
