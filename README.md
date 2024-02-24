@@ -15,8 +15,8 @@ Stand:  24.02.2024, klaus.toscher@ekir.de
   05 |            | Niederbiel      | -          | -                 | kein GD                 |
   06 | 25.02.2024 | Albshausen      | 09:30      | Pfr. Hossbach     | GD im Gemeindehaus      |
   07 |            | Steindorf       | -          | -                 | kein GD                 |
-  08 | 10.02.2024 | Leun            | -          | -                 | kein GD                 |
-  09 | 18.02.2024 | Tiefenbach      | 10:00      | keine Info        | gemeinsamer GD mit Leun |
+  08 |            | Leun            | -          | -                 | kein GD                 |
+  09 |            | Tiefenbach      | -          | -                 | kein GD                 |
   10 | 25.02.2024 | Bonbaden        | 18:00      | -                 | Orgelkonzert in der Kirche  |
   11 |            | Neukirchen      | -          | -                 | kein GD                 |
   12 | 25.02.2024 | Schwalbach      | 10:00      | Pfr/n. Vollmer    | GD im Gemeindehaus      |
