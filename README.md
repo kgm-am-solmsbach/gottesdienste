@@ -8,8 +8,8 @@ Stand:  24.02.2024, klaus.toscher@ekir.de
 
  Nr. | Datum      | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung/Bemerkung |
  --- | ---------- | --------------- | ---------- | ----------------- | ----------------------- |
-  01 | 25.02.2024 | **Am Solmsbach**<br>(Burgsolms) | -     | -      | **kein GD**             |
-  02 |            | **Am Solmsbach**<br>(Oberndorf) | **09:30**  | **Pfr. Perko**    | **GD**  |
+  01 |            | **Am Solmsbach**<br>(Burgsolms) | -     | -      | **kein GD**             |
+  02 | 25.02.2024 | **Am Solmsbach**<br>(Oberndorf) | **09:30**  | **Pfr. Perko**    | **GD**  |
   03 | 25.02.2024 | **Braunfels**   | **11:00**  | **Pfr. Seuthe**   | **GD**                  |
   04 | 25.02.2024 | Oberbiel        | 10:00      | Pfr. Weber        | GD in der Kirche        |
   05 |            | Niederbiel      | -          | -                 | kein GD                 |
