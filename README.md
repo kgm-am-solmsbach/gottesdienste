@@ -29,4 +29,4 @@ Stand: 03.03.2024, klaus.toscher@ekir.de
 [KGM Kronberg/Ts.](https://www.stjohann-kronberg.de/gottesdienste/) Quelle: Homepage, hier gibt es immer Samstagabend Gottesdienste
 
 ## Legende
-- KGM: Kirchengemeinden der Orts 
+- KGM: jeweilige ev. Kirchengemeinden der Orte ...
